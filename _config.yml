@@ -14,10 +14,10 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  - title: Sobre
+    url: /sobre
+  - title: Contato
+    url: /contato
   - title: Feed
     url: /feed.xml
 
