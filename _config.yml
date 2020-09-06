@@ -1,5 +1,5 @@
 # Site Settings
-name: A-SOL
+name: Revista A-SOL
 title: A-SOL | Revista Digital
 description: Revista digital produzida mensalmente pelo Cursinho Comunitário A-SOL.
 tags:
@@ -96,4 +96,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version:
