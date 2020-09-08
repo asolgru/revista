@@ -2,8 +2,8 @@
 date: 2020-09-08 12:26:40
 layout: post
 title: Estamos todos no mesmo poço
-subtitle: Opinião, por Por Raul Campos Nascimento
-description: Opinião, por Por Raul Campos Nascimento
+subtitle: Opinião, por Raul Campos Nascimento
+description: Opinião, por Raul Campos Nascimento
 image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
 optimized_image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
 category: Volume 1
