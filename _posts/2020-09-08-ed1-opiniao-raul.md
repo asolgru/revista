@@ -6,9 +6,9 @@ subtitle: Opinião, por Por Raul Campos Nascimento
 description: Opinião, por Por Raul Campos Nascimento
 image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
 optimized_image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
-category: life
+category: Volume 1
+tags:
 author: walterbolitto
-paginate: true
 ---
 
 #AlertaSpoiler #Opoço
