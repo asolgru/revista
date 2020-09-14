@@ -1,5 +1,5 @@
 ---
-date: 2020-09-08 12:26:40
+date: 2020-09-14 12:26:40
 layout: post
 title: Estamos todos no mesmo poço
 subtitle: Por Raul Campos Nascimento
@@ -8,7 +8,7 @@ image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
 optimized_image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
 category: Opinião
 tags:
-author: walterbolitto
+author: raul
 ---
 
 #AlertaSpoiler #Opoço
