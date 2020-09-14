@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/thiagoalves.jpeg
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/thiagoalves.jpeg
 name: thiagoalves
 display_name: Thiago Alves
 position: Chief Editor
