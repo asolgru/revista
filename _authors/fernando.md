@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/fernandooliveira.jpeg
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/fernandooliveira.jpeg
 name: fernando
 display_name: Fernando Tomé De Oliveira
 position: Chief Editor
