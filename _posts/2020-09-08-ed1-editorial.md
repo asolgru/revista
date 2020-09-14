@@ -2,8 +2,8 @@
 date: 2020-09-14 13:26:40
 layout: post
 title: Combate a Desigualdade atráves da Educação e da Solidariedade de Classe
-subtitle: Por Yanka Xavier
-description: Por Yanka Xavier
+subtitle: Editorial
+description: Editorial
 image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/edicoes/vol1.jpeg
 optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/edicoes/vol1.jpeg
 category: Editorial
