@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/laiz.jpeg
 name: laiz
 display_name: Laiz Pietra
 position: Chief Editor
