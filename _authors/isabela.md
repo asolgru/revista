@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/belamoreira.jpg
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/belamoreira.jpg
 name: isabela
 display_name: Isabela Moreira
 position: Chief Editor
