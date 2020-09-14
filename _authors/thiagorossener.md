@@ -1,15 +1,10 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+photo: /assets/img/uploads/thiagoalves.jpeg
+name: thiagoalves
+display_name: Thiago Alves
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: Thiago estuda programação e faz parte do A-Sol desde março de 2020.
+facebook_username: thiago.soumais.eu
 ---
 
