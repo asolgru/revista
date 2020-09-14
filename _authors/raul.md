@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/raul.jpeg
 name: raul
 display_name: Raul Nascimento
 position: Chief Editor
