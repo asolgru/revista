@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/vanessa.jpeg
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/vanessa.jpeg
 name: vanessa
 display_name: Vanessa Ferrari
 position: Chief Editor
