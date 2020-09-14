@@ -1,7 +1,7 @@
 ---
 date: 2020-09-14 12:26:40
 layout: post
-title: Título
+title: Um convite para apreciar o habito de ler
 subtitle: Por Fernando Tomé De Oliveira
 description: Por Fernando Tomé De Oliveira
 image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
