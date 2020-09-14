@@ -4,8 +4,8 @@ layout: post
 title: Um convite para apreciar o habito de ler
 subtitle: Por Fernando Tomé De Oliveira
 description: Por Fernando Tomé De Oliveira
-image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
-optimized_image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
+image: https://images.pexels.com/photos/207662/pexels-photo-207662.jpeg
+optimized_image: https://images.pexels.com/photos/207662/pexels-photo-207662.jpeg
 category: Biblioteca
 tags:
 author: fernando
