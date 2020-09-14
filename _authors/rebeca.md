@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/rebeca.jpeg
 name: rebeca
 display_name: Rebeca Assis
 position: Chief Editor
