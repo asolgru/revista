@@ -1,7 +1,7 @@
 ---
 date: 2020-09-14 12:26:40
 layout: post
-title: Título
+title: Educação popular: compromisso com a formação política e o acesso ao ensino superior
 subtitle: Por Rebeca Assis e Yanka Xavier
 description: Por Rebeca Assis e Yanka Xavier
 image: https://images.pexels.com/photos/1601495/pexels-photo-1601495.jpeg
