@@ -2,13 +2,13 @@
 date: 2020-09-14 12:26:40
 layout: post
 title: Educação popular, compromisso com a formação política e o acesso ao ensino superior
-subtitle: Por Rebeca Assis e Yanka Xavier
-description: Por Rebeca Assis e Yanka Xavier
+subtitle: Por Yanka Xavier e Rebeca Assis
+description: Por Yanka Xavier e Rebeca Assis
 image: https://upload.wikimedia.org/wikipedia/commons/b/b8/Faculdade_de_Arquitetura_e_Urbanismo_da_USP%2C_06250011.jpg
 optimized_image: https://upload.wikimedia.org/wikipedia/commons/b/b8/Faculdade_de_Arquitetura_e_Urbanismo_da_USP%2C_06250011.jpg
 category: Educação
 tags:
-author: rebeca
+author: yankarebeca
 ---
 
 Quando surgiu a ideia deste escrito, me peguei pensando em como poderia falar de educação de um modo mais intimista, sem apontar no texto meios academicistas para chegar a um resultado didático que expresse o pensamento desse assunto tão íntimo e ao mesmo tempo tão coletivo que é a educação popular e a importância dos cursinhos da cidade de Guarulhos como complemento político e cidadão dos estudantes.
