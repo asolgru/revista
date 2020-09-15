@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outro
 optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/10.jpeg
 category: Espaço A-Sol
 tags:
-author: yanka
+author: melissa
 ---
 
 <h3>O que rolou e o que vai rolar no A-Sol</h3>
