@@ -4,8 +4,8 @@ layout: post
 title: Entrevista com estudante do IFMA e seu período no A-Sol, como a educação popular transformou sua vida?
 subtitle: Por Melissa Castro
 description: Por Melissa Castro
-image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/if.jpeg
-optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/if.jpeg
+image: https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+optimized_image: https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 category: Entrevista
 tags:
 author: melissa
