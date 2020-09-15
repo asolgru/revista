@@ -11,7 +11,7 @@ tags:
 author: a
 ---
 
-###Agosto, mês do orgulho e visibilidade Lésbica
+###Agosto, mês do orgulho e visibilidade Lésbica###
 Em agosto, mês conhecido pelo orgulho e visibilidade Lésbica, devido a ocupação no Ferro’s Bar em 19 de agosto de 1983 liderado pela ativista brasileira Rosely Roth, considerada pioneira da história do Movimento Homossexual Brasileiro, e também, pelo Dia Nacional da Visibilidade Lésbica (29 de agosto de 1996), criado por ativistas lésbicas brasileiras e dedicada a data em que aconteceu o 1º Seminário Nacional de Lésbicas- SENALE), iremos indicar alguns filmes que relatam a realidade de mulheres lésbicas e suas lutas conta o preconceito.
 
 PARIAH (2011). O drama conta a história da jovem adolescente Pariah, uma garota de 17 anos que enfrenta baixa autoestima e não pode assumir sua sexualidade abertamente, principalmente na família. A trama fala sobre dores, rejeição e o refúgio que mulheres lésbicas adolescentes buscam nessa fase da vida. 
@@ -26,9 +26,9 @@ CAROL (2015) Therese Belivet (Rooney Mara) é uma jovem em um emprego entediante
 
 ![CAROL](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYfjDd4O21o_3WiIETLCk1q0Icb0rC5nSSVA&usqp=CAU "CAROL")
 
-**Vanessa Ferrari**, Vanessa entrou no cursinho em 2014. Atualmente cursa Psicologia na Fig-Unimep sendo voluntária no Cursinho A-Sol com ajuda psicológica aos alunos e funcionários, e é uma das roteiristas da coluna de "Cultura e Arte" da revista.
+**Vanessa Ferrari**, entrou no cursinho em 2014. Atualmente cursa Psicologia na Fig-Unimep sendo voluntária no Cursinho A-Sol com ajuda psicológica aos alunos e funcionários, e é uma das roteiristas da coluna de "Cultura e Arte" da revista.
 
-###E vamos de Nostalgia! Smallville!
+###E vamos de Nostalgia! Smallville!###
 É tão bom para quem é fã do Universo DC, tanto para quem não é.
 Smallville disponível no Amazon Prime Video e na plataforma Globo play  tem 10 temporadas, e 270 episódios.
 Mesmo que não goste dos filmes Marvel ou séries DC, provavelmente desse irá gostar!!
