@@ -4,8 +4,8 @@ layout: post
 title: Educação popular, compromisso com a formação política e o acesso ao ensino superior
 subtitle: Por Yanka Xavier e Rebeca Assis
 description: Por Yanka Xavier e Rebeca Assis
-image: https://upload.wikimedia.org/wikipedia/commons/b/b8/Faculdade_de_Arquitetura_e_Urbanismo_da_USP%2C_06250011.jpg
-optimized_image: https://upload.wikimedia.org/wikipedia/commons/b/b8/Faculdade_de_Arquitetura_e_Urbanismo_da_USP%2C_06250011.jpg
+image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/destaque_paulofreire.jpg
+optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/destaque_paulofreire.jpg
 category: Educação
 tags:
 author: yankarebeca
