@@ -2,8 +2,8 @@
 date: 2020-09-14 12:26:40
 layout: post
 title: A arte e seus benefício para a saúde mental
-subtitle: Não sei
-description: Não sei
+subtitle: Por Vanessa Ferrari e Amanda
+description: Por Vanessa Ferrari e Amanda
 image: https://images.pexels.com/photos/1292241/pexels-photo-1292241.jpeg
 optimized_image: https://images.pexels.com/photos/1292241/pexels-photo-1292241.jpeg
 category: Arte e Cultura
