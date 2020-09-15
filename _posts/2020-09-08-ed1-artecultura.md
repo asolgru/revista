@@ -8,7 +8,7 @@ image: https://images.pexels.com/photos/1292241/pexels-photo-1292241.jpeg
 optimized_image: https://images.pexels.com/photos/1292241/pexels-photo-1292241.jpeg
 category: Arte e Cultura
 tags:
-author: walterbolitto
+author: vanessamanda
 ---
 
  Estamos vivenciando um período delicado em que muitos buscam novas formas de se entreter e de aliviar sensações como frustação, medo, insegurança, tédio, insônia, ansiedade, raiva, preocupação, entre outras, as quais vem se fazendo mais presentes na quarentena. A arte é uma dessas formas. Ela é tanto terapêutica como pode até mesmo auxiliar na parte financeira, com as vendas de obras próprias. 
