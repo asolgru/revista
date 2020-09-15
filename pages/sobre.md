@@ -18,7 +18,7 @@ Grande abraço!
 Equipe A-Sol.
 
 ![Artur](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/artur.jpeg "Artur")
-Artur Carlos Rocha
+**Artur Carlos Rocha**
 
 ![Sergio](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/sergio.jpeg "Sergio")
-Sérgio Dias Souza
+**Sérgio Dias Souza**
