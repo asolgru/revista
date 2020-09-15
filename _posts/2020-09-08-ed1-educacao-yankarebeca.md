@@ -2,8 +2,8 @@
 date: 2020-09-14 12:26:40
 layout: post
 title: Educação popular, compromisso com a formação política e o acesso ao ensino superior
-subtitle: Por Yanka Xavier e Rebeca Assis
-description: Por Yanka Xavier e Rebeca Assis
+subtitle: Por Rebeca Assis e Yanka Xavier
+description: Por Rebeca Assis e Yanka Xavier
 image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/destaque_paulofreire.jpg
 optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/destaque_paulofreire.jpg
 category: Educação
