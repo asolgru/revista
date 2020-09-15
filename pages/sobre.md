@@ -16,3 +16,9 @@ Fique conosco e navegue pelas seções do site. Fique a vontade para entrar em c
 Grande abraço!
 
 Equipe A-Sol.
+
+![Artur](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/artur.jpeg "Artur")
+Artur Carlos Rocha
+
+![Sergio](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/sergio.jpeg "Sergio")
+Sérgio Dias Souza
