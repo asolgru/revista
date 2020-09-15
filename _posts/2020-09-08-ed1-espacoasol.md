@@ -4,8 +4,8 @@ layout: post
 title: Espaço A-Sol - Setembro
 subtitle: Por Yanka Xavier
 description: Por Yanka Xavier
-image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/10.jpg
-optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/10.jpg
+image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/10.jpeg
+optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/10.jpeg
 category: Espaço A-Sol
 tags:
 author: yanka
@@ -20,7 +20,7 @@ No mês de agosto realizamos a segunda fase de arrecadação e doações de cest
 
 A campanha  "Solidariedade de Classe", começou com a iniciativa do querido Sergio Dias, um dos fundadores do A-Sol e os companheiros das entidades: APEOESP, Ajuda Mútua, Brigadas Populares, Cursinho Comunitário Pimentas, Corrente do Bem IFSP Guarulhos, Povo Sem Medo, SINPRO e Sindicato dos Bancários.
 
-![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/9.jpg "asol")
+![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/9.jpeg "asol")
 
 **Agradecimentos**
     
@@ -30,7 +30,7 @@ Aos professores, Edson, Cris, Fabio, Luka, Lucas Guerra,Vanessa, Tati, Raul, Rog
 
 Ressaltamos a ajuda também de nossa estudante Bruna Domingues, dona da loja "Docinhos da Brubs", que doou para nossa rifa solidária R$30,00 em produtos para serem escolhidos por cada ganhador. O prêmio da rifa foi feito com muito amor!
 
-![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/11.jpg "asol")
+![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/11.jpeg "asol")
 
 **Agora em Setembro nossa campanha continua! **
 
@@ -39,4 +39,4 @@ Todos sábados deste mês presencialmente das 11hs às 14hs no espaço do A-Sol 
 
 Vocês fazem do mundo um lugar melhor!
 
-![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/13.jpg "asol")
+![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/13.jpeg "asol")
