@@ -1,7 +1,7 @@
 ---
 date: 2020-09-14 13:26:40
 layout: post
-title: Combate a Desigualdade atráves da Educação e da Solidariedade de Classe
+title: Combate à Desigualdade através da Educação e da Solidariedade de Classe
 subtitle: Editorial
 description: Editorial
 image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/fre.jpeg
