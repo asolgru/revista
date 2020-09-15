@@ -8,7 +8,7 @@ image: https://images.pexels.com/photos/2842459/pexels-photo-2842459.jpeg
 optimized_image: https://images.pexels.com/photos/2842459/pexels-photo-2842459.jpeg
 category: Arte e Cultura
 tags:
-author: 
+author: a
 ---
 
 ###Agosto, mês do orgulho e visibilidade Lésbica
