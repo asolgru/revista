@@ -4,8 +4,8 @@ layout: post
 title: Entrevista com estudante do IFMA e seu período no A-Sol, como a educação popular transformou sua vida?
 subtitle: Por Melissa Castro
 description: Por Melissa Castro
-image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/v1ent2.jpeg
-optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/v1ent2.jpeg
+image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/if.jpeg
+optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/if.jpeg
 category: Entrevista
 tags:
 author: melissa
@@ -49,6 +49,7 @@ Melissa: Por fim, o que o A-Sol mudou na sua vida além de conquistar a universi
 Ana:O A-sol trouxe pessoas especiais na minha vida que jamais esquecerei de ninguém ,trouxe solidariedade,compaixão, companheirismo e aprendizagem. Aprendizagem do dia-a-dia ,sabe ? Aquelas aprendizagem que temos que cuidar uns dos outros ,se importar mais com o próximo .
 Agradeço muito por ter encontrado o A-sol e ter descoberto que eu não estava sozinha ,pois eles estavam caminhando ao meu lado .
 
-Tenho muito que agradecer a todos vocês por essa oportunidade de está aqui, vocês estão gerando pessoas para o bem  <3 
+Tenho muito que agradecer a todos vocês por essa oportunidade de está aqui, vocês estão gerando pessoas para o bem  <3
 
+![Ana](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/v1ent2.jpeg "Ana")
 ![Ana](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/v1ent1.jpeg "Ana")
