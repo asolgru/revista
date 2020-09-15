@@ -11,7 +11,7 @@ tags:
 author: yanka
 ---
 
-###O que rolou e o que vai rolar no A-Sol?###
+<h3>O que rolou e o que vai rolar no A-Sol</h3>
 
 **Campanha: Solidariedade de Classe**
 
@@ -32,7 +32,7 @@ Ressaltamos a ajuda também de nossa estudante Bruna Domingues, dona da loja "Do
 
 ![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/11.jpeg "asol")
 
-**Agora em Setembro nossa campanha continua! **
+**Agora em Setembro nossa campanha continua!**
 
 Todos sábados deste mês presencialmente das 11hs às 14hs no espaço do A-Sol que fica na rua Suiça n°302 no Jd. São Francisco! Entre em contato pelas nossas redes sociais (instagram: @cursinhoa.sol, facebook: cursinho comunitário A-Sol, ou pelos telefones (11)98890-1112 e (11)94828-5758 e agende sua doação! Use máscara!
 
