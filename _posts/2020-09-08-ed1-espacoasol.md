@@ -2,8 +2,8 @@
 date: 2020-09-14 12:26:40
 layout: post
 title: Espaço A-Sol - Setembro
-subtitle: Por Yanka Xavier
-description: Por Yanka Xavier
+subtitle: Por Melissa Castro
+description: Por Melissa Castro
 image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/10.jpeg
 optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/10.jpeg
 category: Espaço A-Sol
