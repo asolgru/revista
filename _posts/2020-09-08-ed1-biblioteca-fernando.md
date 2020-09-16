@@ -1,5 +1,5 @@
 ---
-date: 2020-09-14 12:26:40
+date: 2020-09-14 12:26:32
 layout: post
 title: Um convite para apreciar o habito de ler
 subtitle: Por Fernando Tomé De Oliveira
