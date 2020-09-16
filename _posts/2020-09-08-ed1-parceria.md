@@ -1,5 +1,5 @@
 ---
-date: 2020-09-14 12:26:40
+date: 2020-09-14 12:26:30
 layout: post
 title: Parcerias de setembro
 subtitle: Por Melissa Castro
