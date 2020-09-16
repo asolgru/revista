@@ -1,5 +1,5 @@
 ---
-date: 2020-09-14 12:26:40
+date: 2020-09-14 13:26:37
 layout: post
 title: Educação popular, compromisso com a formação política e o acesso ao ensino superior
 subtitle: Por Rebeca Assis e Yanka Xavier
