@@ -1,5 +1,5 @@
 ---
-date: 2020-09-14 12:26:40
+date: 2020-09-14 13:26:38
 layout: post
 title: Entrevista com estudante do IFMA e seu período no A-Sol, como a educação popular transformou sua vida?
 subtitle: Por Melissa Castro
