@@ -1,5 +1,5 @@
 ---
-date: 2020-09-14 12:26:40
+date: 2020-09-14 13:26:39
 layout: post
 title: Estamos todos no mesmo poço
 subtitle: Por Raul Campos Nascimento
