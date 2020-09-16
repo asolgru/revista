@@ -4,8 +4,8 @@ layout: post
 title: Parcerias de setembro
 subtitle: Por Melissa Castro
 description: Por Melissa Castro
-image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/fre.jpeg
-optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/fre.jpeg
+image: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
+optimized_image: https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
 category: Editorial
 tags:
 author: melissa
