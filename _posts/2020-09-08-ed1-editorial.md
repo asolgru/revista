@@ -17,13 +17,20 @@ Há solidariedade em Guarulhos, há luta pelo combate a democratização do ensi
 
 Com a temática do Combate à Desigualdade através da Educação e da Solidariedade de Classe, temos os seguintes destaques para esta primeira edição:
 
-Na seção Educação, discutimos a importância de cursinhos populares da cidade de Guarulhos, o acesso à universidade pública e o processo de transformação social.
-Entrevistamos Ana Neves, ex-estudante do A-Sol que cursa Física no IFMA, que apresenta sua experiência no cursinho e como isso colaborou com sua entrada na universidade pública e de qualidade.
-Na seção Espaço A-Sol, apresentamos o que foi realizado neste último mês, nosso trabalho e nossas campanhas.
-Também trazemos nossos parceiros do mês de setembro, que possibilitaram a manutenção das nossas ações pelo município.
-Na seção Biblioteca, fazemos um convite ao leitor para se apropriar do hábito da leitura, e dos benefícios da prática.
-Na seção <p><a href="http://cursinhoasol.com.br/revista/ed1-opiniao-raul/">Opinião</a></p>, por Raul Nascimento, analisando a conjuntura atual usando como base o filme O Poço.
-Na seção Arte e Cultura, apresentamos os benefícios da arte para a saúde mental, por Vanessa Ferrari e Amanda Soares.
-Indicações de filmes do mês por diversos autores, apresentando filmes com temática lésbica, em homenagem ao mês de agosto, e outras indicações.
+Na seção <a href="http://cursinhoasol.com.br/revista/ed1-educacao-yankarebeca/">Educação</a>, discutimos a importância de cursinhos populares da cidade de Guarulhos, o acesso à universidade pública e o processo de transformação social.
+
+<a href="http://cursinhoasol.com.br/revista/ed1-entrevista/">Entrevistamos Ana Neves</a>, ex-estudante do A-Sol que cursa Física no IFMA, que apresenta sua experiência no cursinho e como isso colaborou com sua entrada na universidade pública e de qualidade.
+
+Na seção <a href="http://cursinhoasol.com.br/revista/ed1-espacoasol/">Espaço A-Sol</a>, apresentamos o que foi realizado neste último mês, nosso trabalho e nossas campanhas.
+
+Também trazemos nossos <a href="http://cursinhoasol.com.br/revista/ed1-parceria/">parceiros</a> do mês de setembro, que possibilitaram a manutenção das nossas ações pelo município.
+
+Na seção <a href="http://cursinhoasol.com.br/revista/ed1-biblioteca-fernando/">Biblioteca</a>, fazemos um convite ao leitor para se apropriar do hábito da leitura, e dos benefícios da prática.
+
+Na seção <a href="http://cursinhoasol.com.br/revista/ed1-opiniao-raul/">Opinião</a>, por Raul Nascimento, analisando a conjuntura atual usando como base o filme O Poço.
+
+Na seção <a href="http://cursinhoasol.com.br/revista/ed1-artecultura/">Arte e Cultura</a>, apresentamos os benefícios da arte para a saúde mental, por Vanessa Ferrari.
+
+<a href="http://cursinhoasol.com.br/revista/ed1-indicacoes/">Indicações de filmes</a> do mês por diversos autores, apresentando filmes com temática lésbica, em homenagem ao mês de agosto, e outras indicações.
 
 Vem com a gente!
