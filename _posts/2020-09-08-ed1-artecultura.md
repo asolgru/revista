@@ -4,8 +4,8 @@ layout: post
 title: A arte e seus benefício para a saúde mental
 subtitle: Por Vanessa Ferrari
 description: Por Vanessa Ferrari
-image: https://images.pexels.com/photos/1292241/pexels-photo-1292241.jpeg
-optimized_image: https://images.pexels.com/photos/1292241/pexels-photo-1292241.jpeg
+image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/pexels-photo-1292241.jpeg
+optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/pexels-photo-1292241.jpeg
 category: Arte e Cultura
 tags:
 author: vanessa
