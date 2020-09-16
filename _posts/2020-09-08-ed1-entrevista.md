@@ -25,7 +25,7 @@ Cara, minha nota de corte foi muito baixa para concorrer em São Paulo ou outro 
 Quando o Artur olhou minha expressão do tipo “você vai mesmo, né”? Logo, em seguida compramos a passagem com a vaquinha da galera do A-sol. 
 Daí o Artur conhecia um aluno do cursinho que tinha família por lá e entramos em contato com eles para que se acontecesse algo, eu teria um apoio. E assim foi, conheci uma garota através das redes sociais para ficar na casa dela até receber bolsa auxílio, mas claro eu estava tão animada e com medo porque mano ,imagina ir para outro lugar do estado ‘‘sozinha”, foi muito tenso, mas no final deu tudo certo. 
 
-**Melissa: A bolsa auxílio estudantil, você recebe todo semestre? Como funciona? **
+**Melissa: A bolsa auxílio estudantil, você recebe todo semestre? Como funciona?**
 
 **Ana**: A Bolsa estudantil funciona assim: o discente passa por um processo seletivo da qual tem que se identificar com vulnerabilidade, supondo que você passe neste processo irá receber R$400,00 por mês durante 9 meses, e  quando acaba essa duração o aluno tem que passar novamente pelo o processo seletivo . 
 Mas, quando eu já havia passado no IFMA o Artur surtou comigo junto e conseguimos o número do Reitor do campus para explicar minha situação para ele, daí ele comentou que quando eu chegasse por lá, era pra eu ir diretamente entrar em contato com o reitor. 
