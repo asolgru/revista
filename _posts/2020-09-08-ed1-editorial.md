@@ -35,3 +35,5 @@ Na seção <a href="http://cursinhoasol.com.br/revista/ed1-artecultura/">Arte e 
 <a href="http://cursinhoasol.com.br/revista/ed1-indicacoes/">Indicações de filmes</a> do mês por diversos autores, apresentando filmes com temática lésbica, em homenagem ao mês de agosto, e outras indicações.
 
 Vem com a gente!
+
+Edição: Amanda Cristina Siqueira Mazo, Jefferson Costa, Luka Oliveira, Walter Bolitto, Yanka Xavier
