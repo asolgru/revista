@@ -38,5 +38,6 @@ A série é uma boa opção para este momento de quarentena contém bastante hor
 ![Autores](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/uploads/vanessathiago.jpeg "Autores")
 
 **Vanessa Ferrari**, entrou no cursinho em 2014. Atualmente cursa Psicologia na Fig-Unimep sendo voluntária no Cursinho A-Sol com ajuda psicológica aos alunos e funcionários, e é uma das roteiristas da coluna de "Cultura e Arte" da revista.
+
 **Thiago Alves**, estuda programação e faz parte do A-Sol desde março de 2020.
 
