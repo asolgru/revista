@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outro
 optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/destaque_paulofreire.jpg
 category: Educação
 tags:
-author: yankarebeca
+author: a
 ---
 
 Quando surgiu a ideia deste escrito, me peguei pensando em como poderia falar de educação de um modo mais intimista, sem apontar no texto meios academicistas para chegar a um resultado didático que expresse o pensamento desse assunto tão íntimo e ao mesmo tempo tão coletivo que é a educação popular e a importância dos cursinhos da cidade de Guarulhos como complemento político e cidadão dos estudantes.
@@ -23,3 +23,10 @@ De acordo com nós educadores populares, quais impactos um cursinho comunitário
 Os cursinhos populares cumprem o papel de ser uma alternativa para a juventude extrapolando o ordinário, oferecendo uma formação complementar, fortalecendo a construção de um sujeito comprometido com as transformações sociais necessárias à sua classe social, já que os educadores populares são capazes de enxergar sua prática educativa como algo essencial, lutando e insistindo em revoluções. O objetivo comum da educação popular é o fortalecimento das classes populares, como sujeitos de produção e comunicação de saberes próprios, visando a transformação social.
 Resumidamente, uma educação popular, que é política, gera um processo de transmissão de informações e conhecimentos que disponibiliza ao cidadão um repertório que lhe permita compreender os debates políticos que se colocam na sociedade, o capacitando para participar ativamente da política. Refletir sobre política é um exercício que propicia o pensar na coletividade, exercitar a empatia e, sobretudo, nos leva a pensar em nosso papel como cidadãos e no impacto de nossas ações na sociedade.
 Todas essas características dos cursinhos comunitários abarcam uma educação transformadora que liberta, evolui e emancipa a sociedade, tornando jovens e adultos agentes de transformação social, da sua própria realidade e da realidade da sua comunidade, que luta pelos direitos e espaço das camadas populares.
+
+![Autores](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/uploads/rebecayanka.jpeg "Autores")
+
+**Rebeca Assis**. Estudante do A-Sol em 2015 e 2016. Atualmente é graduanda em pedagogia na Unicamp, compõe a coordenação pedagógica do cursinho e é roteiristas da coluna de educação da revista.
+
+**Yanka Xavier**. Pedagoga, graduanda em Geografia e Coordenadora do Cursinho Comunitário A-Sol.
+
