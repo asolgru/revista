@@ -15,20 +15,19 @@ author: a
 
 **Campanha: Solidariedade de Classe**
 
-No mês de julho 120 famílias receberam as cestas básicas, através das doações de várias pessoas.
-No mês de agosto realizamos a segunda fase de arrecadação e doações de cestas básicas, produtos de higiene pessoal e máscaras descartáveis. Tudo higienizado conforme as orientações de saúde!
+No mês de julho, 120 famílias receberam as cestas básicas, através das doações de várias pessoas. No mês de agosto, realizamos a segunda fase de arrecadação e doações de cestas básicas, produtos de higiene pessoal e máscaras descartáveis. Tudo higienizado conforme as orientações de saúde!
 
-A campanha  "Solidariedade de Classe", começou com a iniciativa do querido Sergio Dias, um dos fundadores do A-Sol e os companheiros das entidades: APEOESP, Ajuda Mútua, Brigadas Populares, Cursinho Comunitário Pimentas, Corrente do Bem IFSP Guarulhos, Povo Sem Medo, SINPRO e Sindicato dos Bancários.
+A campanha “Solidariedade de Classe” começou com a iniciativa do querido Sérgio Dias, um dos militantes do A-Sol, e os companheiros das entidades: APEOESP, Ajuda Mútua, Brigadas Populares, Cursinho Comunitário Pimentas, Corrente do Bem IFSP Guarulhos, Povo Sem Medo, SINPRO e Sindicato dos Bancários.
+
 
 ![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/9.jpeg "asol")
 
 **Agradecimentos**
     
-Agradecemos a todas e todos voluntários que nos fortaleceu nessa campanha a ajudou a muitas famílias de Guarulhos!
-Dentre estes nosso amado e querido amigo Sergio Dias e sua família, que desde o início alavancou essa campanha.
-Aos professores, Edson, Cris, Fabio, Luka, Lucas Guerra,Vanessa, Tati, Raul, Rogerio, Vanda, Cida, Samantha, Walter, Rebeca, Roberta, Ulisses, Laiz, Isabela, entre tantos outros.
+Agradecemos a todas e todos voluntários que nos fortaleceram nessa campanha para ajudar muitas famílias de Guarulhos! Dentre estes, nosso amado e querido amigo Sérgio Dias e sua família que, desde o início, alavancaram essa campanha. Aos professores, Edson, Cris, Fabio, Luka, Lucas Guerra,Vanessa, Tati, Raul, Rogério, Vanda, Cida, Samantha, Walter, Rebeca, Roberta, Ulisses, Laiz, Isabela, entre tantos outros.
 
-Ressaltamos a ajuda também de nossa estudante Bruna Domingues, dona da loja "Docinhos da Brubs", que doou para nossa rifa solidária R$30,00 em produtos para serem escolhidos por cada ganhador. O prêmio da rifa foi feito com muito amor!
+Ressaltamos a ajuda também de nossa estudante Bruna Domingues, dona da loja “Docinhos da Brubs”, que doou para nossa rifa solidária R$30,00 em produtos para serem escolhidos por cada ganhador. O prêmio da rifa foi feito com muito amor!
+
 
 ![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/11.jpeg "asol")
 
