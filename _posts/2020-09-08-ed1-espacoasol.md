@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outro
 optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/10.jpeg
 category: Espaço A-Sol
 tags:
-author: melissa
+author: a
 ---
 
 <h3>O que rolou e o que vai rolar no A-Sol</h3>
@@ -43,3 +43,10 @@ Vocês fazem do mundo um lugar melhor!
 
 ![asol](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed1/13.jpeg "asol")
 
+
+![Autores](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/uploads/melissabela.jpeg "Autores")
+
+
+**Melissa Castro**, Tecnóloga em Logística Aeroportuária pela FATEC Guarulhos, coordenadora de mídias no cursinho A-Sol.
+
+**Isabela Moreira**, Estudante do cursinho em 2020. Atua com outros estudantes na produção do canal do cursinho e escrevendo conteúdo para a revista A-Sol.
