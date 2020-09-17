@@ -12,21 +12,13 @@ author: melissa
 ---
 
 ![Parceria](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/parcerias/1.png "Parceria")
-Criado em 2002 pelo professor Rômulo Ornelas, no bairro Pimentas em Guarulhos. Já ajudou mais de 600 jovens da periferia a ingressarem nas melhores universidades do país.
-Rua do Poente, 148
-Guarulhos, SP
-http://cursinhopimentas.org.br/
+Criado em 2002 pelo professor Rômulo Ornelas, no bairro Pimentas em Guarulhos. Já ajudou mais de 600 jovens da periferia a ingressarem nas melhores universidades do país. Rua do Poente, 148 - Guarulhos, SP http://cursinhopimentas.org.br/.
 
 ![Parceria](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/parcerias/2.jpg "Parceria")
-Sindicato dos Professores do Ensino Oficial do Estado de São Paulo
-Rua Leonardo Vallardi, 203 - Jardim Gumercindo, Guarulhos - SP, 07090-080
-https://www.facebook.com/ApeoespGuarulhos/
+Sindicato dos Professores do Ensino Oficial do Estado de São Paulo. Rua Leonardo Vallardi, 203 - Jardim Gumercindo, Guarulhos - SP, 07090-080. https://www.facebook.com/ApeoespGuarulhos/.
 
 ![Parceria](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/parcerias/3.jpg "Parceria")
-O Sinpro Guarulhos é o sindicato das professoras e professores do ensino privado na cidade de Guarulhos
-Rua Carlos Leal Evans, 73
-Guarulhos, SP
-https://www.facebook.com/SinproGRU/
+O Sinpro Guarulhos é o sindicato das professoras e professores do ensino privado na cidade de Guarulhos. Rua Carlos Leal Evans, 73 - Guarulhos, SP. https://www.facebook.com/SinproGRU/.
 
 ![Parceria](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/parcerias/4.jpg "Parceria")
 Grupo solidário criado pelos servidores do IFSP Campus Guarulhos.
@@ -36,7 +28,7 @@ Frente unitária de movimentos sociais que tem como maior objetivo a realizaçã
 https://www.facebook.com/psmguarulhos/
 
 ![Parceria](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/parcerias/6.jpg "Parceria")
-Unidade Aberta por uma Nova Maioria. Este é o lema que sintetiza o objetivo estratégico das Brigadas Populares, uma organização socialista, classista, feminista, antirracista, anti-imperialista, anti-punitivista e nacionalista-revolucionária.
+Unidade Aberta por uma Nova Maioria: este é o lema que sintetiza o objetivo estratégico das Brigadas Populares, uma organização socialista, classista, feminista, antirracista, anti-imperialista, antipunitivista e nacionalista-revolucionária. 
 https://brigadaspopulares.org.br/
 
 ![Parceria](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/parcerias/7.jpg "Parceria")
