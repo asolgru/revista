@@ -25,6 +25,8 @@ O objetivo comum da educação popular é o fortalecimento das classes populares
 
 Refletir sobre política é um exercício que propicia o pensar na coletividade, exercitar a empatia e, sobretudo, nos leva a pensar em nosso papel como cidadãos e no impacto de nossas ações na sociedade. Todas essas características dos cursinhos comunitários abarcam uma educação transformadora que liberta, evolui e emancipa a sociedade, tornando jovens e adultos agentes de transformação social, da sua própria realidade e da realidade da sua comunidade, que luta pelos direitos e espaço das camadas populares.
 
+![Paulo Freire](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/paulofreiremural.jpg "Paulo Freire")
+
 
 ![Autores](https://raw.githubusercontent.com/asolgru/revista/master/assets/img/uploads/rebecayanka.jpeg "Autores")
 
