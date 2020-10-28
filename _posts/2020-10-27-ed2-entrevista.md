@@ -19,7 +19,7 @@ Entrevista com o Professor de Física Fábio Silva Cruz – Texto: Melissa Castr
 
 **Fábio**: Eu conheci o cursinho no meu terceiro ano do Ensino Médio, em 2010, quando ele realizou o seu primeiro projeto Enem, mas como realizava o curso técnico não consegui conciliar as três coisas, então voltei para o cursinho como aluno do curso preparatório em 2011. Nessa época, tinha 18 anos. No ano seguinte, consegui ingressar na Universidade e, no meio do ano de 2012, assumi as aulas de Física do A-Sol, no qual fiquei até o ano de 2016. Neste período, também pude ter a experiência de coordenar os professores. 
 
-**Melissa: Sempre gosto de perguntar: por que você escolheu física? E quando você começou a estudar na USP? Como foi estar nesta tão disputada universidade? **
+**Melissa: Sempre gosto de perguntar: por que você escolheu física?** **E quando você começou a estudar na USP? Como foi estar nesta tão disputada universidade?**
 
 **Fábio**: Acho que sempre fui curioso sobre o funcionamento das coisas, sempre desmontava brinquedos para saber como funcionavam, claro que montar eles de volta já era mais difícil.
 
@@ -30,7 +30,7 @@ Lembro que uma das primeiras coisas que eu fiz após a matrícula foi ir no band
 ![Entrevista](https://i.imgur.com/84PMoEv.jpg "Entrevista")
 Aula para alunos do cursinho A-Sol em 2019
 
-**Melissa: As primeiras experiências em dar aula foram no cursinho, certo? Acho maravilhosa a sua disposição e dinâmica, lembro das aulas que tive com você. Você mostra sua paixão por física! Nessa pandemia, o trabalho do professor fez muitas pessoas verem que não é fácil e que nunca foi. Até experiências on-line você tem feito com seus alunos, por favor nos fale sobre as aulas remotas nesta pandemia. **
+**Melissa: As primeiras experiências em dar aula foram no cursinho, certo? Acho maravilhosa a sua disposição e dinâmica, lembro das aulas que tive com você. Você mostra sua paixão por física!** **Nessa pandemia, o trabalho do professor fez muitas pessoas verem que não é fácil e que nunca foi. Até experiências on-line você tem feito com seus alunos, por favor nos fale sobre as aulas remotas nesta pandemia.**
 
 **Fábio**: Sim, minha primeira experiência como professor foi no Cursinho, o qual sou muito grato por isso. A Pandemia realmente trouxe mais um desafio para a carreira docente e também para os alunos, pois foi uma surpresa e, em tempo record, tivemos que nos reinventar como professores(as) e alunos(as). Quando me vi diante desse novo desafio, sabia que não seria fácil e iria exigir ainda mais tempo de dedicação, busquei ao máximo me adaptar ao novo, mas sem trocar algumas relações fundamentais que é o diálogo, o prazer de desvendar o novo e o respeito ao tempo de aprendizagem. Hoje sou professor do Colégio Gardhon Bandeiras, um colégio particular em Guarulhos, que atuo com turmas do 8° ano, com aulas de matemática, e alunos do Ensino Médio, com as aulas de Física. Tem sido um desafio enorme fazer com que as aulas e o tempo investido na frente do computador tenham sentido neste momento tão complicado que o mundo está vivendo. Espero que esteja conseguindo fazer sentido, mas com a consciência que sempre há algo a melhorar e que ouvir os alunos nesse momento é fundamental.
 
