@@ -8,7 +8,7 @@ image: https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.
 optimized_image: https://images.pexels.com/photos/390089/film-movie-motion-picture-390089.jpeg
 category: Arte e Cultura
 tags:
-author: walterbolitto
+author: a
 ---
 
  Neste mês, temos indicações de alguns filmes que passam reflexões filosóficas.
@@ -43,3 +43,11 @@ E como diz no filme: #Wakandaforever - Thiago, estudante do A-Sol
 
 ![Filmes](https://live.staticflickr.com/2506/4020889481_3733e55e12_c.jpg "Filmes")
 Planeta Fantástico (La Planète Sauvage) é uma animação francesa de 1973 que discute sobre a natureza humana em um cenário psicodélico e de especulação científica. A trama se passa em um universo no qual seres azuis gigantes (Draags) vivem em uma sociedade avançada e tratam a raça de Oms como animais, forçando-os a se adaptar para sobreviver. O filme discute, por meio de alegorias, a relação que temos com o diferente e como isso vira dominação em alguns casos, trazendo uma reflexão sobre os conflitos de classe, étnicos e a interação do homem com a natureza. - Walter, professor do A-Sol
+
+![Filmes](https://i.imgur.com/Typ6XSN.png "Filmes")
+
+**Vanessa Ferrari**, entrou no cursinho em 2014. Atualmente, cursa Psicologia na Fig-Unimesp, sendo voluntária no Cursinho A-Sol com ajuda psicológica aos alunos e funcionários, e é uma das roteiristas da coluna de “Cultura e Arte” da revista.
+
+**Thiago Alves**, estuda programação e faz parte do A-Sol desde março de 2020.
+
+**Walter Bolitto Carvalho**, pós-graduado em Educação e Tecnologia pela UFSCar. Desenvolvedor de jogos educacionais e populares, militante nas áreas da tecnologia, educação e ambiental.
