@@ -8,7 +8,7 @@ image: https://i.imgur.com/Sopf3QK.png
 optimized_image: https://i.imgur.com/Sopf3QK.png
 category: Espaço A-Sol
 tags:
-author: a
+author: yanka
 ---
 
 Em 6 de setembro, ocorreu o sorteio da Rifa Solidária, que consistiu na doação de 1 quilo de algum alimento não perecível e, a cada 1 quilo, o doador assinalava um nome na cartela. O prêmio seria de R$ 30,00 em compras na loja de doces da nossa aluna Bruna. A ganhadora foi a nossa professora Maria Cristina.
