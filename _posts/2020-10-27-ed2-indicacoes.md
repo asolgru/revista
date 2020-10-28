@@ -26,6 +26,11 @@ Na Natureza Selvagem (2007)
 
 Christopher Mc Candless, filho de pais ricos, se forma na Universidade de Emory como um dos melhores estudantes e atletas. Porém, em vez de embarcar em uma carreira prestigiosa e lucrativa, ele escolhe doar suas economias para caridade, livrar-se de seus pertences e viajar pelo Alasca.
 
+![Filmes](https://i.imgur.com/7mj2U6G.jpg "Filmes")
+Menina de Ouro (2004)
+
+Uma grande e incrível história de Maggie, uma lutadora de boxe que enfrenta muitas dificuldades para alcançar seu sonho de se tornar campeã. Rejeitada por um grande treinador por ser mulher, ela não desiste e se empenha até mostrar que merece ser digna de competir com profissionais.
+
 **Recomendação de Thiago Alves**
 
 ![Filmes](https://upload.wikimedia.org/wikipedia/sco/0/0c/Black_Panther_film_poster.jpg "Filmes")
@@ -37,12 +42,12 @@ Como já se dizia no título, Pantera Negra transcende Universo, cor e país, é
 Infelizmente, no ano de 2020, veio a falecimento Chadwick Boseman (T'Challa), seu protagonista, devido a um câncer de cólon.
 Sim, ele gravou o filme doente, pois foi diagnosticado com a doença em 2015, sua luta mostra o quão grande ele foi ...
 O Filme Pantera Negra é muito bom, vai fazer você se levantar da cadeira como também vai te emocionar!
-E como diz no filme: #Wakandaforever - Thiago, estudante do A-Sol
+E como diz no filme: #Wakandaforever
 
 **Recomendação de Walter Bolitto**
 
 ![Filmes](https://live.staticflickr.com/2506/4020889481_3733e55e12_c.jpg "Filmes")
-Planeta Fantástico (La Planète Sauvage) é uma animação francesa de 1973 que discute sobre a natureza humana em um cenário psicodélico e de especulação científica. A trama se passa em um universo no qual seres azuis gigantes (Draags) vivem em uma sociedade avançada e tratam a raça de Oms como animais, forçando-os a se adaptar para sobreviver. O filme discute, por meio de alegorias, a relação que temos com o diferente e como isso vira dominação em alguns casos, trazendo uma reflexão sobre os conflitos de classe, étnicos e a interação do homem com a natureza. - Walter, professor do A-Sol
+Planeta Fantástico (La Planète Sauvage) é uma animação francesa de 1973 que discute sobre a natureza humana em um cenário psicodélico e de especulação científica. A trama se passa em um universo no qual seres azuis gigantes (Draags) vivem em uma sociedade avançada e tratam a raça de Oms como animais, forçando-os a se adaptar para sobreviver. O filme discute, por meio de alegorias, a relação que temos com o diferente e como isso vira dominação em alguns casos, trazendo uma reflexão sobre os conflitos de classe, étnicos e a interação do homem com a natureza.
 
 ![Filmes](https://i.imgur.com/Typ6XSN.png "Filmes")
 
