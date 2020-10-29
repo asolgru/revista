@@ -1,5 +1,5 @@
 ---
-date: 2020-10-27 13:26:35
+date: 2020-10-27 13:26:20
 layout: post.
 title: Privacidade e o uso de tecnologias para educação
 subtitle: Por Walter Bolitto
