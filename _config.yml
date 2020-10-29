@@ -52,10 +52,10 @@ permalink: /:title/
 collections:
   authors:
     output: true
+paginate: 13
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
 use_logo: false
-paginate: 13
 
 # Content paginator
 paginate_content:
