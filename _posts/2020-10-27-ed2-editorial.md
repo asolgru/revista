@@ -12,7 +12,7 @@ author: yanka
 ---
 
 
-No Editorial deste mês de Outubro trazemos a reflexão na coluna <a href="http://cursinhoasol.com.br/revista/ed2-educacao/">"Educação"</a> sobre o processo entre a lógica do heroísmo e a romantização da força de trabalho dos educadores que tende a ser acentuada na data em que se comemora a relevância dessa categoria. 
+No Editorial deste mês de Outubro trazemos a reflexão na coluna <a href="http://cursinhoasol.com.br/revista/ed2-educacao/">Educação</a> sobre o processo entre a lógica do heroísmo e a romantização da força de trabalho dos educadores que tende a ser acentuada na data em que se comemora a relevância dessa categoria. 
 
 A linha que cruzamos aqui revela que essa tendência, se não alinhada com a realidade política do país, pode prejudicar o processo de ação e conscientização no combate aos levantes que buscam retroceder o processo de democratização do ensino e principalmente atrapalhar mudanças sociais efetivas.
 
