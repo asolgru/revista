@@ -52,7 +52,6 @@ permalink: /:title/
 collections:
   authors:
     output: true
-paginate: 13
 paginate_path: "/revista/page/:num/"
 show_get_theme_btn: true
 use_logo: false
