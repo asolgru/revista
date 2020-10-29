@@ -4,8 +4,8 @@ layout: post
 title: Professores e o 15 de Outubro, entre  lógica do heroísmo e a romantização da força de trabalho
 subtitle: Editorial
 description: Editorial
-image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/edicoes/ed2.jpeg
-optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/edicoes/ed2.jpeg
+image: https://i.imgur.com/O0qDQpv.jpg
+optimized_image: https://i.imgur.com/O0qDQpv.jpg
 category: Editorial
 tags:
 author: yanka
