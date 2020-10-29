@@ -26,7 +26,7 @@ Na coluna Educação e Tecnologia, serão apresentados os <a href="http://cursin
 
 Na coluna Arte e Cultura você terá acesso a este mês a <a href="http://cursinhoasol.com.br/revista/ed2-indicacoes/">indicações de filmes maravilhosos escolhidos especialmente por nossos voluntários e voluntárias!</a>
 
-Fique por dentro nessa mesma seção <a href="aaa">da reflexão da arte a partir de uma ótica revolucionária</a>. E ainda no <a href="http://cursinhoasol.com.br/revista/ed2-divulga/">Divulga Eu!</a> saiba mais sobre os artistas que se revelam na periferia de Guarulhos  e dão um show de talento com suas artes carregadas de sentimentos e realidade
+Fique por dentro nessa mesma seção <a href="http://cursinhoasol.com.br/revista/ed2-artecultura-pedro/">da reflexão da arte a partir de uma ótica revolucionária</a>. E ainda no <a href="http://cursinhoasol.com.br/revista/ed2-divulga/">Divulga Eu!</a> saiba mais sobre os artistas que se revelam na periferia de Guarulhos  e dão um show de talento com suas artes carregadas de sentimentos e realidade
 
 Na coluna <a href="http://cursinhoasol.com.br/revista/ed2-biblioteca-fernando/">Biblioteca A-Sol</a>, convidamos você a conhecer o trabalho incrível da escritora negra Elizandra Souza e apreciar sua literatura poética cheia de luta e nostalgia
 
