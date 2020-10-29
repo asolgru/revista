@@ -1,5 +1,5 @@
 ---
-date: 2020-10-27 13:26:21
+date: 2020-10-27 13:26:58
 layout: post
 title: Documentos de texto online
 subtitle: Por Walter Bolitto
