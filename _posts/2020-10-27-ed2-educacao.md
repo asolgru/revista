@@ -15,7 +15,7 @@ author: a
 
 No dia 15 de outubro, data em que se comemora o Dia dos Professores no Brasil, os recados mais comuns que circulam entre amigos na web coloca os professores num posto heroico, considerando que este, inserido num sistema educacional precário e numa conjectura desafiadora, torna-se a força sub-humana que passa por cima desses males e que sempre resolve tudo no final.
          
-A primeira reflexão que nos direciona à crítica apresentada aqui é: se olharmos duas vezes para as horas  horas trabalhadas (dentro e fora da escola), as lutas diárias numa educação vunerável, a luta por direitos, o ambiente educacional, estaríamos valorizando estes trabalhadores ou romantizando a guerra travada entre poderosos mal intencionados e educadores, em meio a uma realidade maçante?
+A primeira reflexão que nos direciona à crítica apresentada aqui é: se olharmos duas vezes para as horas trabalhadas (dentro e fora da escola), as lutas diárias numa educação vunerável, a luta por direitos, o ambiente educacional, estaríamos valorizando estes trabalhadores ou romantizando a guerra travada entre poderosos mal intencionados e educadores, em meio a uma realidade maçante?
 
 Acreditamos que refletir essa questão não é deixar de lado o carinho que temos em atuar pela educação, mas se faz necessário tirar a veda dos olhos, humanizar os educadores para criar possibilidades reais de mudança dos problemas que estão enraizados na estrutura do país.
 
