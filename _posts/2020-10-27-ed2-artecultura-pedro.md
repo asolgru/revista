@@ -4,8 +4,8 @@ layout: post
 title: A arte como perspectiva revolucionária
 subtitle: Por Pedro Galvão
 description: Por Pedro Galvão
-image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed2/pedroed2.jpeg
-optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed2/pedroed2.jpeg
+image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed2/ed23.jpeg
+optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed2/ed23.jpeg
 category: Arte e Cultura
 tags:
 author: pedro
