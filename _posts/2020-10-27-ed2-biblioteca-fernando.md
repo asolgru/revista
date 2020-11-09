@@ -4,8 +4,8 @@ layout: post
 title: Literatura negra feminina; conheça Elizandra Souza
 subtitle: Por Fernando Tomé de Oliveira
 description: Por Fernando Tomé de Oliveira
-image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed2/bibliotecaed2.png
-optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed2/bibliotecaed2.png
+image: https://i.imgur.com/4rianTu.png
+optimized_image: https://i.imgur.com/4rianTu.png
 category: Biblioteca
 tags:
 author: fernando
