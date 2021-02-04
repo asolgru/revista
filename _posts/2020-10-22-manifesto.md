@@ -1,5 +1,5 @@
 ---
-date: 2020-11-23 13:26:58
+date: 2020-10-22 13:26:58
 layout: post
 title: Cursinhos Comunitários assinam manifesto em apoio a Elói Pietá e Adê Rocha
 subtitle: 
