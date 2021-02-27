@@ -1,17 +1,17 @@
 ---
-date: 2020-10-27 16:26:58
+date: 2020-10-27T16:26:58.000+00:00
 layout: post
-title: Professores e o 15 de Outubro, entre  lógica do heroísmo e a romantização da força de trabalho
+title: Professores e o 15 de Outubro, entre a lógica do heroísmo e a romantização
+  da força de trabalho
 subtitle: Editorial
 description: Editorial
 image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed2/ed22.jpeg
 optimized_image: https://raw.githubusercontent.com/asolgru/revista/master/assets/img/outros/ed2/ed22.jpeg
 category: Editorial
-tags:
+tags: 
 author: yanka
+
 ---
-
-
 No Editorial deste mês de Outubro trazemos a reflexão na coluna <a href="http://cursinhoasol.com.br/revista/ed2-educacao/">Educação</a> sobre o processo entre a lógica do heroísmo e a romantização da força de trabalho dos educadores que tende a ser acentuada na data em que se comemora a relevância dessa categoria. 
 
 A linha que cruzamos aqui revela que essa tendência, se não alinhada com a realidade política do país, pode prejudicar o processo de ação e conscientização no combate aos levantes que buscam retroceder o processo de democratização do ensino e principalmente atrapalhar mudanças sociais efetivas.
