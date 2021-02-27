@@ -1,0 +1,34 @@
+---
+label: text
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: description
+  label: description
+- type: textarea
+  name: image
+  label: image
+- type: textarea
+  name: optimized_image
+  label: optimized_image
+- type: text
+  name: category
+  label: category
+- type: text
+  name: tags
+  label: tags
+- type: text
+  name: author
+  label: author
