@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: http://cursinhoasol.com.br/revista/assets/img/uploads/walterbolitto.jpeg
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/priscila.jpeg
 name: priscila
 display_name: Priscila Soares
 position: Chief Editor
