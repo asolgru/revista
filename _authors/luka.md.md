@@ -1,16 +1,14 @@
 ---
 layout: author
-photo: http://cursinhoasol.com.br/revista/assets/img/uploads/walterbolitto.jpeg
-name: walterbolitto
-display_name: Walter Bolitto
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/luka.jpeg
+name: luka
+display_name: Luka Oliveira
 position: Chief Editor
-bio: Mestrando em Ciência da Computação pela UFABC. Pós-graduado em Educação e Tecnologia
-  pela UFSCar. Desenvolvedor de jogos educacionais e populares, militante nas áreas
-  da tecnologia, educação e ambiental.
-twitter_username: bolittow
-instagram_username: bolitto_
-linkedin_username: walter-bolitto
+bio: Estudante de Filosofia, pesquisador de Filosofia e Cinema pelo GECEF. Professor
+  voluntário no Cursinho Comunitário A-Sol
+twitter_username: ''
+instagram_username: oliveira_luka
+linkedin_username: ''
 title: luka.md
-published: false
 
 ---
