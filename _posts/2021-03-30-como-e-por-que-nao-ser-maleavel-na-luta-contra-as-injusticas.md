@@ -1,7 +1,7 @@
 ---
 date: 2021-03-30T00:00:00.000+00:00
 layout: post
-title: Como e por que não ser maleável na luta contra as injustiças?
+title: Como se organizar para não ser maleável contra as injustiças?
 subtitle: Por Yanka Xavier
 description: Por Yanka Xavier
 image: https://i.imgur.com/V0drAZi.jpg
@@ -12,6 +12,7 @@ tags:
 author: yanka
 
 ---
+
 Essa injustiça que citamos no título desse escrito tem nome, advém de circunstâncias históricas e concretas, e se manifesta principalmente nas divisões das classes sociais. Quem é rico, cada vez fica mais rico, e quem é pobre cada vez fica mais pobre. Onde não há vacina para todos, não há trabalho, não há alimento ou moradia, estamos falando aqui sobre o capitalismo. E não é somente o empobrecimento das pessoas que está atrelado a esse sistema, mas todas as variáveis que afetam nossa vida, e que afetam há muito tempo.
 
 Hoje queremos discutir e apresentar os caminhos, pelo menos de forma introdutória, do porquê de não sermos maleáveis quando a questão é o enfrentamento das injustiças, ou seja, quando não as aceitamos de fato. Parafraseando Rosa Luxemburgo: “Há todo um velho mundo ainda por destruir e todo um novo mundo a construir”.
