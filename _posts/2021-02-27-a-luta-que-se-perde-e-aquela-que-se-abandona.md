@@ -4,7 +4,7 @@ layout: post
 title: A luta que se perde, é aquela que se abandona
 subtitle: ''
 description: ''
-image: https://i.imgur.com/KCS4OGq.png
+image: https://i.imgur.com/r6GUBke.png
 optimized_image: https://i.imgur.com/r6GUBke.png
 category:
 - Editorial
