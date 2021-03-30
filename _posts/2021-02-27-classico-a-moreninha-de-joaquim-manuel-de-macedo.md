@@ -24,10 +24,6 @@ Uma leitura tranquila, com poucas páginas e de uma linguagem coloquial, que o a
 
 Recomendo a leitura dessa obra, e tenho orgulho de saber que nosso Brasil tem uma riqueza em clássicos maravilhosos.
 
-Espero que vocês tenham gostado. Desde já, agradeço por todo carinho, e desejo que essa resenha possa agregar no estudo de vocês!
+Espero que vocês tenham gostado. Desde já, agradeço por todo carinho, e desejo que essa resenha possa agregar no estudo de vocês! Siga-nos no instagram: @literal_mente.tila e @revistaasol.
 
-Atenciosamente,
-
-Priscila.
-
-Abraço!
+Até breve!
