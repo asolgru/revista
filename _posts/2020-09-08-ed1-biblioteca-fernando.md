@@ -31,7 +31,7 @@ Outra obra bastante conhecida reflete com ironia As Vantagens de ser uma Artista
 
 **Rosana Paulino**
 
-Rosana Paulino é um artista brasileira, também formada em Gravura e Doutora em Artes pela Universidade de São Paulo (USP). Paulino expressa em suas obras a relação de violência entre as mulheres desde a colonização a modernidade, não restringindo sua arte a perspectiva da mulher mas também do povo negro que foi escravizado e silenciado de sua participação histórica.
+Rosana Paulino é um artista brasileira, também formada em Gravura e Doutora em Artes pela Universidade de São Paulo (USP). Paulino expressa em suas obras, a relação de violência entre as mulheres desde a colonização até a modernidade, não restringindo sua arte a perspectiva da mulher, mas ampliando também ao povo negro que foi escravizado e silenciado de sua participação histórica.
 
 Parede de Memória (1994)
 
