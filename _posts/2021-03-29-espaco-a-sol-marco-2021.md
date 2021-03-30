@@ -1,29 +1,38 @@
 ---
-date: 2021-03-29 13:59:00 +0000
+date: 2021-03-29T13:59:00.000+00:00
 layout: post
 title: Espaço A-Sol - Março 2021
 subtitle: Por Isabela Moreira
 description: Por Isabela Moreira
-image: https://i.imgur.com/1F6RsxL.jpg
-optimized_image: https://i.imgur.com/1F6RsxL.jpg
+image: https://i.imgur.com/kykHBlN.png
+optimized_image: https://i.imgur.com/kykHBlN.png
 category:
 - Espaço A-Sol
 tags: 
 author: isabela
 
 ---
-O ano parece cada vez mais curto, ou até mesmo parece que ainda não saímos de 2020, e o A-Sol tem atuado bastante neste período.
-Neste mês de Março tivemos algumas participações importante e outras atividades.
-Nessa primeira semana no grupo da Turma de 2021, os estudantes tiraram o dia para particpar de atividades online onde contaram um pouco cada um deles, como seus hobbies, filmes, séries, livros favoritos e outros. Nossas aulas estão previstas para início em 12 de abril em formado remoto. Enquanto isso, seguimos em luta pela vacina e auxílio emergencial digno.
+O ano parece cada vez mais curto, ou até mesmo parece que ainda não saímos de 2020, e o A-Sol tem atuado bastante neste período. Neste mês de Março tivemos algumas participações importante e outras atividades, incluindo reuniões pedagógicas no nosso espaço somente com a Executiva do A-Sol, com distanciamento e máscara.
+
+![](https://i.imgur.com/kykHBlN.png)
+
+![](https://i.imgur.com/wHKH31w.png)
+
+Nessa primeira semana no grupo da Turma de 2021, os estudantes tiraram o dia para participar de atividades online onde contaram um pouco cada um deles, como seus hobbies, filmes, séries, livros favoritos e outros. Nossas aulas estão previstas para início em 12 de abril em formado remoto. Enquanto isso, seguimos em luta pela vacina e auxílio emergencial digno.
 
 Nossa coordenadora pedagógica também participou da Comissão de Mulheres Trabalhadoras de Guarulhos para construir debates políticos no mês da mulher, junto de outras companheiras de diversos coletivos.
 
+![](https://i.imgur.com/NULZpND.jpg)
+
 A professora Cris, também está atuando fortemente com o Comitê de Base da Educação pelo não retorno das aulas presenciais enquanto estivermos em pandemia. E também pela manutenção do emprego dos trabalhadores da educação na área da merenda em São Paulo. Tem sido dias de muita luta.
 
-   
+![](https://i.imgur.com/3JL67vg.png)
+
 Greve da Proguaru
 
-Em 15 de março, a autarquia responsável pela zeladoria de Guarulhos, Proguaru, votou por entrar em greve por tempo indeterminado para manter o emprego de mais de 4 mil pessoas. Desde dezembro, os trabalhadores e trabalhadoras se manifestam contra a extinção de seus empregos, lutando para que não perca seu sustento em meio a pandemia da Covid-19. 
+Em 15 de março, a autarquia responsável pela zeladoria de Guarulhos, Proguaru, votou por entrar em greve por tempo indeterminado para manter o emprego de mais de 4 mil pessoas. Desde dezembro, os trabalhadores e trabalhadoras se manifestam contra a extinção de seus empregos, lutando para que não perca seu sustento em meio a pandemia da Covid-19.
+
+![](https://i.imgur.com/ZgfShHq.png)
 
 Aulas presenciais suspensas
 
@@ -32,6 +41,8 @@ Com o aumento de casos de infectados pela covid-19, as aulas presenciais de esco
 Solidariedade de Classe
 
 A campanha Solidariedade de Classe continua! Entre em contato e agende sua doação de alimentos não perecíveis e produtos de higiene. Ajude a montar mais de 100 cestas básicas para as familias da periferia da cidade.
+
+![](https://i.imgur.com/p53v9hS.jpg)
 
 Fique conosco navegando por nossas redes ou entre em contato para saber mais!
 
