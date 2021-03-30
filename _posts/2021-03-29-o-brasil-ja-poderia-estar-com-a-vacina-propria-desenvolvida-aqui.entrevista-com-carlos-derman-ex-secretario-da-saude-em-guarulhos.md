@@ -1,5 +1,5 @@
 ---
-date: 2021-03-29 23:59:00 +0000
+date: 2021-03-29T23:59:00.000+00:00
 layout: post
 title: "“O Brasil já poderia estar com a vacina própria, desenvolvida aqui.”, entrevista
   com Carlos Derman, ex-secretário da saúde em Guarulhos"
@@ -14,7 +14,7 @@ author: walterbolitto
 
 ---
 Nascido em 1952, Carlos Derman é um veterano da militância da esquerda guarulhense, com formação em Química e Direito. Sua militância começa com os protestos de 1967 e 1968 contra a ditadura enquanto estudante secundarista, quando passa a atuar na clandestinidade com o fechamento do regime.  
-Com o aumento da repressão e perseguição aos partidos políticos, Derman vai para o Chile, onde vivencia o golpe militar contra Salvador Allende, partindo para o México e depois para Cuba, onde se forma químico, retornando ao Brasil com a Lei da Anistia em 1979.   
+Com o aumento da repressão e perseguição aos partidos políticos, Derman vai para o Chile, onde vivencia o golpe militar contra Salvador Allende, partindo para o México e depois para Cuba, onde se forma químico, retornando ao Brasil com a Lei da Anistia em 1979.  
 Durante a década de 80, trabalha em indústrias químicas e metalúrgicas, onde seguiu atuando na luta dos trabalhadores, destacando seu papel como candidato à Diretoria do Sindicato dos Metalúrgicos de Guarulhos, na chapa da Oposição Metalúrgica e da greve em 1984 na Indústria Níquel Tocantins, em São Paulo, do grupo Votorantim.  
 Os ciclos de greves que ocorreram por todo o Brasil no final dos anos 70 desembocou na fundação do Partido dos Trabalhadores, que juntou operários, intelectuais de esquerda, militantes socialistas e esquerda católica, tornando-se rapidamente o maior partido de massas do Brasil. Derman participou do PT desde sua fundação, sendo presidente do partido nos anos de 1989 e 1990 em Guarulhos, e atuando como vereador da cidade entre 1989 e 1992, além de ter sido candidato à prefeitura pelo partido em 1996.  
 Com a vitória de Elói Pietá e do PT nas eleições de 2000 e com a promessa do partido transformar a cidade, Derman assume a presidência da Proguaru de 2001 a 2008 e atua como vice-prefeito e Secretário de Saúde em Guarulhos de 2009 a 2016, onde é lembrado e reconhecido até os dias de hoje pelos trabalhadores da Proguaru e da Secretaria da Saúde pelo excelente trabalho como gestor e pela simplicidade enquanto exercia estes cargos estratégicos, na contramão do comportamento observado pelos membros da oligarquia guarulhense.  
@@ -31,8 +31,8 @@ Tem cientistas e tem “know how” para isso. O que não teve foi investimento 
 **Walter:** **Desde a entrada do Pazuello, podemos observar a entrada em massa dos militares na Saúde, após a saída do Teich e de sua equipe de empresários da saúde privada. Como você avalia esta decisão dos setores militares centralizarem para si uma área estratégica durante a crise política e sanitária que estamos vivendo?**
 
 **Carlos:** Houve um desmonte total no Ministério da Saúde. Saíram técnicos de enorme competência, muitos deles inclusive estavam lá ainda antes dos governos do PT. E o resultado está aí, a tragédia de Manaus, o tratamento com Cloroquina e outras sandices. Os próprios militares já devem estar percebendo que entraram numa fria, e estão procurando sair... Mas o estrago está feito!  
-\**  
-Walter: Comparado à crise sanitária que vivenciamos no Brasil, alguns países do Sul Global como China, Vietnã, Nova Zelândia e Cuba encontraram melhores estratégias para combater a pandemia em comparação aos países europeus. Ao que você atribui o sucesso das políticas adotadas nesses países?**
+  
+**Walter: Comparado à crise sanitária que vivenciamos no Brasil, alguns países do Sul Global como China, Vietnã, Nova Zelândia e Cuba encontraram melhores estratégias para combater a pandemia em comparação aos países europeus. Ao que você atribui o sucesso das políticas adotadas nesses países?**
 
 **Carlos:** Os países que foram menos afetados pela COVID adotaram as seguintes medidas: isolamento social, evitando ao máximo a transmissão; testagem de todos os casos suspeitos e de todos os que tiveram contato com esses casos suspeitos; monitoramento rígido dos infectados e de todos os que tiveram contato com eles; e ajuda econômica para os que tiverem dificuldades, em função das regras de isolamento, para garantir o seu sustento. Simples assim...  
 Acompanho o caso de Cuba. Qualquer pessoa que chegue a Cuba, tem que ficar em quarentena. Faz um teste (PCR) logo que chega e outro uma semana depois. Toda a população respeita as regras do isolamento social, e inclusive, em cada bairro, a própria organização da população (CDR – Comitê de Defesa da Revolução) fiscaliza o cumprimento das regras.
