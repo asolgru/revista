@@ -1,5 +1,5 @@
 ---
-date: 2021-03-30 02:59:00 +0000
+date: 2021-03-30T02:59:00.000+00:00
 layout: post
 title: A luta que se perde, é aquela que se abandona
 subtitle: ''
@@ -25,7 +25,7 @@ Tamo junto, Cris!
 **Edição Março 2021**  
 Nesta edição, a Revista A-Sol compõe em seus temas os assuntos que nos introduz ao mundo da teoria política, da arte, da cultura, cinema, livros e mais. Saiba o que debatemos este mês em cada coluna;
 
-Na coluna [Educação Popular](), você receberá de forma introdutória sete passos para se organizar politicamente. Um mundo melhor é possível;
+Na coluna [Educação Popular](http://cursinhoasol.com.br/revista/como-e-por-que-nao-ser-maleavel-na-luta-contra-as-injusticas/), você receberá de forma introdutória sete passos para se organizar politicamente. Um mundo melhor é possível;
 
 Em [Entrevistas](http://cursinhoasol.com.br/revista/o-brasil-ja-poderia-estar-com-a-vacina-propria-desenvolvida-aqui.entrevista-com-carlos-derman-ex-secretario-da-saude-em-guarulhos/), acompanhe a jornada do militante e ex secretário da saúde em Guarulhos, Carlos Derman, e ainda comentários acerca da conjuntura nacional;
 
