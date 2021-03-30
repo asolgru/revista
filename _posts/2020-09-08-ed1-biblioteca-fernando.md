@@ -62,3 +62,7 @@ Esperamos que possa se inspirar nessas artistas e conhecer mais sobre suas hist�
 Até a próxima!
 
 ![](https://i.imgur.com/aUHkeh0.png)
+
+**Vanessa Ferrari**. Vanessa entrou no cursinho em 2014. Atualmente, cursa Psicologia na Fig-Unimesp, sendo voluntária no Cursinho A-Sol com ajuda psicológica aos alunos e funcionários, e é uma das roteiristas da coluna de “Cultura e Arte” da revista.
+
+**Yanka Xavier**. Pedagoga, graduanda em Geografia e Coordenadora do Cursinho Comunitário A-Sol.
