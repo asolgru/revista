@@ -1,5 +1,5 @@
 ---
-date: 2021-02-27T22:59:00.000+00:00
+date: 2021-03-30 02:59:00 +0000
 layout: post
 title: A luta que se perde, é aquela que se abandona
 subtitle: ''
