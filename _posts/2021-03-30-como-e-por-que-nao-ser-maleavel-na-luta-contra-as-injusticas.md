@@ -7,7 +7,7 @@ description: Por Yanka Xavier
 image: https://i.imgur.com/V0drAZi.jpg
 optimized_image: https://i.imgur.com/V0drAZi.jpg
 category:
-- educação
+- Educação Popular
 tags: 
 author: yanka
 
