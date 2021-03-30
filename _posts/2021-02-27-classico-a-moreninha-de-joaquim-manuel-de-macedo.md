@@ -1,5 +1,5 @@
 ---
-date: 2021-02-27T23:00:00.000+00:00
+date: 2021-03-29 17:00:00 +0000
 layout: post
 title: 'Clássico: A Moreninha, de Joaquim Manuel de Macedo'
 subtitle: Por Priscila Soares
