@@ -41,7 +41,7 @@ Parede de Memória (1994)
 
 ![](https://i.imgur.com/SqBvs5f.jpg)
 
-Bastidores (1997) onde a artista explora ainda mais o conceito de _sutura_ que sugere a violência do silêncio, e tece isso entre fotos de parentes.
+Bastidores (1997) onde a artista explora ainda mais o conceito de _sutura_ que sugere a violência do silêncio, tecendo linhas grossas entre fotos de parentes.
 
 ![](https://i.imgur.com/HEnrOcY.jpg)
 
