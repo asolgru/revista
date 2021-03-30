@@ -28,7 +28,7 @@ Um de seus cartazes mais famosos foi exposto no MASP (Museu de Arte de São Paul
 
 ![](https://i.imgur.com/YLJFqXV.jpg)
 
-Outra obra bastante conhecida reflete com ironia As Vantagens de ser uma Artista Mulher, ou em seu título original _The Advantages of Being a Female Artist_ de 1988.  
+Outra obra bastante conhecida reflete com ironia "As Vantagens de ser uma Artista Mulher", ou em seu título original _The Advantages of Being a Female Artist_ de 1988.  
 ![](https://i.imgur.com/tIGiDhW.jpg)
 
 **Rosana Paulino**
