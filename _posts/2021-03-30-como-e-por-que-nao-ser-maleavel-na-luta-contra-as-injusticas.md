@@ -12,8 +12,7 @@ tags:
 author: yanka
 
 ---
-
-"Difícil não é lutar. Difícil é viver desse jeito", Alysson Mascaro.
+"Difícil não é lutar. Difícil é viver desse jeito" - Alysson Mascaro.
 
 Essa injustiça que citamos no título desse escrito tem nome, advém de circunstâncias históricas e concretas, e se manifesta principalmente nas divisões das classes sociais. Quem é rico, cada vez fica mais rico, e quem é pobre cada vez fica mais pobre. Onde não há vacina para todos, não há trabalho, não há alimento ou moradia, estamos falando aqui sobre o capitalismo. E não é somente o empobrecimento das pessoas que está atrelado a esse sistema, mas todas as variáveis que afetam nossa vida, e que afetam há muito tempo.
 
