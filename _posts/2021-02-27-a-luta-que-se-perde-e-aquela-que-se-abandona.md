@@ -25,20 +25,20 @@ Tamo junto, Cris!
 **Edição Março 2021**  
 Nesta edição, a Revista A-Sol compõe em seus temas os assuntos que nos introduz ao mundo da teoria política, da arte, da cultura, cinema, livros e mais. Saiba o que debatemos este mês em cada coluna;
 
-Na coluna Educação Popular, você receberá de forma introdutória sete passos para se organizar politicamente. Um mundo melhor é possível;
+Na coluna [Educação Popular](), você receberá de forma introdutória sete passos para se organizar politicamente. Um mundo melhor é possível;
 
-Em Entrevistas, acompanhe a jornada do militante e ex secretário da saúde em Guarulhos, Carlos Derman, e ainda comentários acerca da conjuntura nacional;
+Em [Entrevistas](http://cursinhoasol.com.br/revista/o-brasil-ja-poderia-estar-com-a-vacina-propria-desenvolvida-aqui.entrevista-com-carlos-derman-ex-secretario-da-saude-em-guarulhos/), acompanhe a jornada do militante e ex secretário da saúde em Guarulhos, Carlos Derman, e ainda comentários acerca da conjuntura nacional;
 
-Já em Arte e Cultura, o mês de março traz a nível internacional a questão da mulher e além de apresentar artistas cubana, brasileira e outras nesta edição, ousamos pensar o papel da mulher na arte diante da luta feminista;
+Já em [Arte e Cultura](http://cursinhoasol.com.br/revista/ed3-mulheres-e-feminismo/), o mês de março traz a nível internacional a questão da mulher e além de apresentar artistas cubana, brasileira e outras nesta edição, ousamos pensar o papel da mulher na arte diante da luta feminista;
 
-Em Opinião, uma tentativa de compreender a lógica bolsonarista;
+Em [Opinião](http://cursinhoasol.com.br/revista/ed3-epistemologia/), uma tentativa de compreender a lógica bolsonarista;
 
-A coluna Cinema, comenta a dinâmica fórmula de atuação de Jim Carrey e suas facetas no humor e ainda nos apresenta alguns de seus melhores filmes;
+A coluna [Cinema](http://cursinhoasol.com.br/revista/jim-carrey-e-as-diversas-faces-do-humor/), comenta a dinâmica fórmula de atuação de Jim Carrey e suas facetas no humor e ainda nos apresenta alguns de seus melhores filmes;
 
 Em Divulga Eu!, mais artistas da cidade de Guarulhos compõe nossa galeria de arte e cultura popular;
 
-Em Resenhas, o clássico A Moreninha nos direciona a meados do séc. XIX e nos faz refletir sobre sua importância para a literatura nacional;
+Em [Resenhas](http://cursinhoasol.com.br/revista/classico-a-moreninha-de-joaquim-manuel-de-macedo/), o clássico A Moreninha nos direciona a meados do séc. XIX e nos faz refletir sobre sua importância para a literatura nacional;
 
-No Espaço A-Sol, saiba tudo o que rolou no nosso movimento social no mês de Março!
+No [Espaço A-Sol](http://cursinhoasol.com.br/revista/espaco-a-sol-marco-2021/), saiba tudo o que rolou no nosso movimento social no mês de Março!
 
 Boa leitura!
