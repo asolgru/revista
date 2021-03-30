@@ -47,7 +47,7 @@ Bastidores (1997) é onde a artista explora ainda mais o conceito de _sutura_ qu
 
 **Ana Mendieta**
 
-Ana Mendieta é uma artista cubana que usava o próprio corpo como obra para refletir questões de gênero e identidade multicultural. Nesse sentido, Mendieta se apropriava de aspectos naturais como fonte materna em sua arte.
+Ana Mendieta (_in memoriam_) é uma artista cubana que usava o próprio corpo como obra para refletir questões de gênero e identidade multicultural. Nesse sentido, Mendieta se apropriava de aspectos naturais como fonte materna em sua arte.
 
 Tied-Up Woman (1973)
 
