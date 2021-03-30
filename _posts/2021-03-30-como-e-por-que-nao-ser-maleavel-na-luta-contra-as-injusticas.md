@@ -44,6 +44,8 @@ Quando dizemos que lutar é um ato de amor, ressaltamos o amor em sua amplitude,
 
 Aqui, entramos no eixo da práxis. Práxis, em linhas gerais, é a compreensão da prática através do exercício da mesma. Ou seja, é o diálogo entre a fala, o entendimento da realidade e a ação sobre ela. É tomar consciência de que o discurso e a prática devem estar coerentes com a interpretação e ação mediante a sociedade e qualquer outro espaço de luta. Para Paulo Freire, que baseado nos escritos de Marx também trouxe a palavra para o Brasil no campo da educação popular: “É fundamental diminuir a distância entre o que se diz e o que se faz, de tal forma que, num dado momento, a tua fala seja a tua prática”. Não há nada mais acolhedor e convidativo que o próprio exemplo.
 
+A socióloga Sabrina Fernandes aprofundará o conceito de práxis com bastante clareza em seu livro _Sintomas Mórbidos_.
+
 **5. Aprimorar o conhecimento através da leitura**
 
 É fundamental aceitar que, desde o início, você terá que se debruçar sobre esses debates através do estudo e da leitura. A compreensão das contradições e complexidades da luta de classes não se dará de forma espontânea. A própria leitura é uma questão de hábito, afinal, não nascemos leitores assim como não nascemos andando, nós precisamos nos levar a ler, de preferência os escritos que fortaleçam nossa organização e a construção das alternativas contra o capital. Há leituras de todos os tipos, desde o deleite, o acolhimento, a teoria e a prática. Os aprimoramentos necessários que surgem através do exercício, pensamento e ação, sempre passam antes pela leitura.
