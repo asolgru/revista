@@ -60,3 +60,5 @@ Body Tracks (1982)
 Esperamos que possa se inspirar nessas artistas e conhecer mais sobre suas histórias.
 
 Até a próxima!
+
+![](https://i.imgur.com/aUHkeh0.png)
