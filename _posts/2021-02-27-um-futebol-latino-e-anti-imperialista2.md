@@ -1,7 +1,7 @@
 ---
 date: 2021-02-27T23:59:00.000+00:00
 layout: post
-title: Um futebol latino e anti-imperialista2
+title: Um futebol latino e anti-imperialista
 subtitle: Por José Ricardo Satilio da Silva
 description: Por José Ricardo Satilio da Silva
 image: https://i.imgur.com/9LoQL6i.jpg
