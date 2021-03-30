@@ -33,7 +33,7 @@ Outra obra bastante conhecida reflete com ironia "As Vantagens de ser uma Artist
 
 **Rosana Paulino**
 
-Rosana Paulino é um artista brasileira, também formada em Gravura e Doutora em Artes pela Universidade de São Paulo (USP). Paulino expressa em suas obras, a relação de violência entre as mulheres negra desde a colonização até a modernidade, não restringindo sua arte a perspectiva da mulher, mas a ampliando também ao povo negro que foi escravizado e silenciado de sua participação histórica.
+Rosana Paulino é um artista brasileira, também formada em Gravura e Doutora em Artes pela Universidade de São Paulo (USP). Paulino expressa em suas obras a relação de violência entre a sociedade contra mulheres negras, desde a colonização até a modernidade. A artista busca não restringir sua arte, embora tenha um peso relevante, a perspectiva da mulher, mas a amplia essa relação com a história do povo negro e o silêncio violento em meio ao apagão histórico desses registros.
 
 ![](https://i.imgur.com/6gmoMD2.jpg)
 
