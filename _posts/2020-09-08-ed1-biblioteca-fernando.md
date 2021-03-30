@@ -1,5 +1,5 @@
 ---
-date: 2021-03-29 14:26:32 +0000
+date: 2021-03-29 23:26:32 +0000
 layout: post
 title: 'Mulheres e feminismo: a arte e a reivindicação de lugar na história'
 subtitle: Por Vanessa Ferrari e Yanka Xavier
