@@ -24,7 +24,7 @@ As _Guerrilas Girls,_ nome que surge de uma mistura entre “Gorila e Guerreira 
 
 ![](https://i.imgur.com/Xdyo0j3.jpg)
 
-Um de seus cartazes mais famosos foi exposto no MASP (Museu de Arte Moderna de São Paulo) em 2017.
+Um de seus cartazes mais famosos foi exposto no MASP (Museu de Arte de São Paulo Assis Chateaubriand) em 2017.
 
 ![](https://i.imgur.com/YLJFqXV.jpg)
 
