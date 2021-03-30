@@ -12,7 +12,7 @@ tags:
 author: Vanessa Ferrari e Yanka Xavier
 
 ---
-O início do processo de _ensino institucional_ da arte no Brasil se deu com a chegada dos europeus, mas antes desse período o território nacional já era composto principalmente pela arte dos povos originários, principalmente através da arte rupestre, a arte que é expressa nas rochas. E mesmo que o ensino da arte ao longo da história fosse dividido tal como a própria sociedade, ou seja, quem tinha acesso ou era rico, ou era branco, ou era homem, e normalmente estes três elementos estavam relacionados a mesma figura. Por ironia, até mesmo para as mulheres da classe burguesa, o ingresso a tais instituições de ensino da arte eram restritos ou com rígidos exames de admissão.
+O início do processo de _ensino institucional_ da arte no Brasil se deu com a chegada dos europeus, mas antes desse período o território nacional já era composto principalmente pela arte dos povos originários através da arte rupestre, a arte que é expressa nas rochas. E mesmo que o ensino da arte ao longo da história fosse dividido tal como a própria sociedade, ou seja, quem tinha acesso ou era rico, ou era branco, ou era homem, e normalmente estes três elementos estavam relacionados a mesma figura. Por ironia, até mesmo para as mulheres da classe burguesa, o ingresso a tais instituições de ensino da arte eram restritos ou com rígidos exames de admissão.
 
 Se pararmos para pensar, não faz muito tempo desde que os grupos feministas classistas soviéticos do começo do séc. XX lutou para instituir o dia internacional da mulher e dar início a uma febre de coletivos feministas em diversos lugares do mundo, principalmente pautadas na divisão do trabalho, e claro, tendo a arte como um dos meios de suas reivindicações.
 
