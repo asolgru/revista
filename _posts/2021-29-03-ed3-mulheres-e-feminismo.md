@@ -1,5 +1,5 @@
 ---
-date: 2021-03-29 23:26:32 +0000
+date: 2021-03-29T23:26:32.000+00:00
 layout: post
 title: 'Mulheres e feminismo: a arte e a reivindicação de lugar na história'
 subtitle: Por Vanessa Ferrari e Yanka Xavier
@@ -12,15 +12,17 @@ tags:
 author: Vanessa Ferrari e Yanka Xavier
 
 ---
-O início do processo de _ensino institucional_ da arte no Brasil se deu com a chegada dos europeus, mas antes desse período o território nacional já era composto principalmente pela arte dos povos originários através da arte rupestre, a arte que é expressa nas rochas. E mesmo que o ensino da arte ao longo da história fosse dividido tal como a própria sociedade, ou seja, quem tinha acesso ou era rico, ou era branco, ou era homem, e normalmente estes três elementos estavam relacionados a mesma figura. Por ironia, até mesmo para as mulheres da classe burguesa, o ingresso a tais instituições de ensino da arte eram restritos ou com rígidos exames de admissão.
+O início do processo de _ensino institucional_ da arte no Brasil se deu com a chegada dos europeus, mas antes desse período o território nacional já era composto principalmente pela arte dos povos originários através da arte rupestre, que é expressa nas rochas. E mesmo que o ensino da arte ao longo da história fosse dividido tal como a própria sociedade, ou seja, quem tinha acesso ou era rico, ou era branco, ou era homem, e normalmente estes três elementos estavam relacionados a mesma figura. Por ironia, até mesmo para as mulheres da classe burguesa, o ingresso a tais instituições de ensino da arte eram restritos ou com rígidos exames de admissão.
 
-Se pararmos para pensar, não faz muito tempo desde que os grupos feministas classistas soviéticos do começo do séc. XX lutou para instituir o dia internacional da mulher e dar início a uma febre de coletivos feministas em diversos lugares do mundo, principalmente pautadas na divisão do trabalho, e claro, tendo a arte como um dos meios de suas reivindicações tanto em cartazes, escritos, ou poemas.
+Se pararmos para pensar, não faz muito tempo desde que os grupos feministas classistas soviéticos do começo do séc. XX lutou para instituir o dia internacional da mulher proletária, e dar início a uma febre de coletivos feministas em diversos lugares do mundo, principalmente pautadas na divisão do trabalho, e claro, tendo a arte como um dos meios de suas reivindicações tanto em cartazes, escritos, ou poemas.
 
 Hoje queremos que conheça de forma introdutória (e instigante) pelos menos algumas mulheres que compõe a história das artistas na modernidade e que, através de expressões irreverentes e originais, revelam os laços entre a luta e a arte da mulher num contexto de mundo patriarcal.
 
 **Guerrilas Girls**
 
 As _Guerrilas Girls,_ nome que surge de uma mistura entre “Gorila e Guerreira ou Guerrilheira”, é um coletivo feminista formado em Nova Iorque na década de 1985, e teve como missão desde o início combater o sexismo (discriminação de gênero) em museus. Hoje suas obras e cartazes são famosos em todo o mundo por conter a mistura entre o cômico e o trágico. Este coletivo incorpora estatísticas sociais a sua arte.
+
+![](https://i.imgur.com/Xdyo0j3.jpg)
 
 Um de seus cartazes mais famosos foi exposto no MASP (Museu de Arte Moderna de São Paulo) em 2017.
 
@@ -31,7 +33,9 @@ Outra obra bastante conhecida reflete com ironia As Vantagens de ser uma Artista
 
 **Rosana Paulino**
 
-Rosana Paulino é um artista brasileira, também formada em Gravura e Doutora em Artes pela Universidade de São Paulo (USP). Paulino expressa em suas obras, a relação de violência entre as mulheres desde a colonização até a modernidade, não restringindo sua arte a perspectiva da mulher, mas ampliando também ao povo negro que foi escravizado e silenciado de sua participação histórica.
+Rosana Paulino é um artista brasileira, também formada em Gravura e Doutora em Artes pela Universidade de São Paulo (USP). Paulino expressa em suas obras, a relação de violência entre as mulheres negra desde a colonização até a modernidade, não restringindo sua arte a perspectiva da mulher, mas a ampliando também ao povo negro que foi escravizado e silenciado de sua participação histórica.
+
+![](https://i.imgur.com/6gmoMD2.jpg)
 
 Parede de Memória (1994)
 
