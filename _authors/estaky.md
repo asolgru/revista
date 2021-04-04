@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: http://cursinhoasol.com.br/revista/assets/img/uploads/estaky.jpeg
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/estaky.jpg
 name: estaky
 display_name: Patrícia Estaky
 position: Chief Editor
