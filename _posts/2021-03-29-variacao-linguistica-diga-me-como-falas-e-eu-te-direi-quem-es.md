@@ -1,7 +1,7 @@
 ---
-date: 2021-03-29 23:30:00 +0000
+date: 2021-03-29T23:30:00.000+00:00
 layout: post
-title: 'Variação linguística: Diga-me como falas, e eu te direi quem és.'
+title: 'Variação linguística: diga-me como falas, e eu te direi quem és.'
 subtitle: Por Patrícia Estaky
 description: Por Patrícia Estaky
 image: https://i.imgur.com/gOGCxy7.jpg
