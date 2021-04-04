@@ -7,7 +7,7 @@ description: Por Patrícia Estaky
 image: https://i.imgur.com/gOGCxy7.jpg
 optimized_image: https://i.imgur.com/gOGCxy7.jpg
 category:
-- Vestibular
+- Enem & Vestibular
 tags: 
 author: estaky
 
