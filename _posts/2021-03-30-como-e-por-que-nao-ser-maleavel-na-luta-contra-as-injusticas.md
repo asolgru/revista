@@ -1,7 +1,7 @@
 ---
 date: 2021-03-30T00:00:00.000+00:00
 layout: post
-title: 'Como se organizar para não ser maleável contra as injustiças? '
+title: Caminhos para se organizar politicamente contra às injustiças
 subtitle: Por Yanka Xavier
 description: Por Yanka Xavier
 image: https://i.imgur.com/V0drAZi.jpg
@@ -14,7 +14,9 @@ author: yanka
 ---
 A _injustiça_ que citamos no título desse escrito tem nome e um significado bastante amplo, advém de circunstâncias históricas e concretas, e se manifesta principalmente nas divisões das classes sociais. Quem é rico, cada vez fica mais rico, e quem é pobre cada vez fica mais pobre. Onde não há vacina para todos, não há trabalho, não há alimento ou moradia, estamos falando aqui sobre o capitalismo. E não é somente o empobrecimento das pessoas que está atrelado a esse sistema, mas todas as variáveis que afetam nossa vida, e que afetam há muito tempo.
 
-Hoje queremos discutir e apresentar os caminhos, pelo menos de forma introdutória, do porquê de não sermos maleáveis quando a questão é o enfrentamento das injustiças, ou seja, quando não as aceitamos de fato. Parafraseando Rosa Luxemburgo: “Há todo um velho mundo ainda por destruir e todo um novo mundo a construir”.
+Hoje queremos discutir e apresentar os caminhos e o porquê, pelo menos de forma introdutória, não sermos maleáveis quando a questão é o enfrentamento das injustiças, ou seja, quando não as aceitamos de fato e não desejamos ser maleável ou conciliadores. 
+
+Parafraseando Rosa Luxemburgo: “Há todo um velho mundo ainda por destruir e todo um novo mundo a construir”.
 
 **1. Consciência de classe**
 
