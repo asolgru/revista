@@ -1,7 +1,7 @@
 ---
 date: 2021-03-30T00:00:00.000+00:00
 layout: post
-title: Caminhos para se organizar politicamente contra às injustiças
+title: Caminhos para se organizar politicamente contra as injustiças
 subtitle: Por Yanka Xavier
 description: Por Yanka Xavier
 image: https://i.imgur.com/V0drAZi.jpg
@@ -20,7 +20,7 @@ Parafraseando Rosa Luxemburgo: “Há todo um velho mundo ainda por destruir e t
 
 **1. Consciência de classe**
 
-É preciso reconhecer que a primazia da nossa luta será definida pelo desejo de romper com a divisão das classes sociais, primeiro porque é através dessa divisão que surgem diversas desigualdades. Para isso, o primeiro passo é identificar a que classe a sua luta pertence. Não precisamos de grandes dotes intelectuais (embora reconheçamos que o capitalismo seja extremamente complexo) para nos definir como classe trabalhadora e estudantil. E essa luta de classes toma corpo mediante a ação política e organizada do povo contra a burguesia; a minoria dominante. Isso porque é através da ação e do debate que nós começamos perceber as imensas contradições que estão envoltas deste sistema e quando tomamos consciência das coisas, podemos superá-las.
+É preciso reconhecer que a primazia da nossa luta será definida pelo desejo de romper com a divisão das classes sociais. Primeiro porque é através dessa divisão que surgem diversas desigualdades. Para isso,  é importante identificar a que classe a sua luta pertence. Não precisamos de grandes dotes intelectuais (embora reconheçamos que o capitalismo é extremamente complexo) para nos definir como classe trabalhadora. Essa luta de classes toma corpo mediante a ação política e organizada do povo contra a classe burguesa; a minoria dominante. Isso porque é através da ação e do debate que começamos perceber as imensas contradições que estão envoltas deste sistema e quando tomamos consciência das coisas, podemos superá-las.
 
 “A história de todas as sociedades que existiram até hoje é a história de luta de classes”, Karl Marx em _O Manifesto do Partido Comunista_. (disponível para download no final desse escrito).
 
@@ -38,7 +38,7 @@ A consciência de classe pressupõe a superação das contradições e concilia�
 
 Quando dizemos que lutar é um ato de amor, ressaltamos o amor em sua amplitude, o amor que acolhe com compromisso à luta e seus irmãos e irmãs. Não existe uma luta que se vença sozinho, principalmente quando o seu inimigo está munido dos maiores privilégios de ataque e defesa. Amar é se reconhecer no outro, isso quer dizer que só através da união, solidariedade e da organização uns com os outros é que teremos a chance da vitória. O primeiro passo é a aproximação. Esteja disposto a se aproximar de um movimento social, um coletivo popular, um sindicato e outros. Existem muitos meios que compõem a luta.
 
-“Se não amo o mundo, se não amo a vida, se não amo os homens, não me é possível o diálogo. Não há, por outro lado, diálogo, se não há humildade. A pronúncia do mundo, com que os homens o recriam permanentemente, não pode ser um ato arrogante.” - Paulo Freire em _Pedagogia do Oprimido_ (disponível para download no final desse escrito).
+“Se não amo o mundo, se não amo a vida, se não amo os homens \[humanidade\], não me é possível o diálogo. Não há, por outro lado, diálogo, se não há humildade. A pronúncia do mundo, com que os homens o recriam permanentemente, não pode ser um ato arrogante.” - Paulo Freire em _Pedagogia do Oprimido_ (disponível para download no final desse escrito).
 
 **4. Ter coerência entre a fala e a prática**
 
