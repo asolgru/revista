@@ -34,7 +34,9 @@ A consciência de classe pressupõe a superação das contradições e concilia�
 
 **2. O começo do fim é sempre pela raiz do problema**
 
-É preciso compreender logo de início que a injustiça é uma causa que tem sua raiz baseada num projeto político complexo e bem definido, e que esse projeto é sustentado por diversas vias, dentre elas a via ideológica liberal que é usada pela burguesia, principalmente através de grandes mídias, para nos fazer acreditar que não há alternativas para o capitalismo; que o mundo é assim e que devemos aceitá-lo a sua maneira e se esforçar ao máximo para sobreviver, como se tudo isso que nos acometesse fosse um processo neutro e natural das relações sociais em todo o mundo. Essa ideologia também se manifesta em frases como “O Brasil está quebrado”, “Crie seu próprio emprego”, “Não tem comida e nem moradia? Isso é falta de vontade”. Afastar-se desse raciocínio é afastar-se do pessimismo irracional e aproximar-se da criação de alternativas contra essa imposição.
+É preciso compreender logo de início que a injustiça é uma causa que tem sua raiz baseada num projeto político complexo e bem definido, e que esse projeto é sustentado por diversas vias, dentre elas a via ideológica liberal que é usada pela burguesia, principalmente através de grandes mídias, para nos fazer acreditar que não há alternativas para o capitalismo; que o mundo é assim e que devemos aceitá-lo a sua maneira e se esforçar ao máximo para sobreviver, como se tudo isso que nos acometesse fosse um processo neutro e natural das relações sociais em todo o mundo.
+
+Essa ideologia também se manifesta em frases como “O Brasil está quebrado”, “Crie seu próprio emprego”, “Não tem comida e nem moradia? Isso é falta de vontade”. Afastar-se desse raciocínio é afastar-se do pessimismo irracional e aproximar-se da criação de alternativas contra essa imposição.
 
 **3. Lutar é um ato de amor**
 
