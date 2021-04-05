@@ -16,7 +16,7 @@ _Você já se perguntou por que o mundo é tão injusto ou já se sentiu extrema
 
 A _injustiça_ que citamos no título desse escrito tem nome e um significado bastante amplo, advém de circunstâncias históricas e concretas, e se manifesta principalmente nas divisões das classes sociais. Quem é rico, cada vez fica mais rico, e quem é pobre cada vez fica mais pobre. Onde não há vacina para todos, não há trabalho, não há alimento ou moradia, estamos falando aqui sobre o capitalismo. E não é somente o empobrecimento das pessoas que está atrelado a esse sistema, mas todas as variáveis que afetam nossa vida, e que afetam há muito tempo.
 
-Hoje queremos discutir e apresentar os caminhos e o porquê, pelo menos de forma introdutória, não sermos maleáveis quando a questão é o enfrentamento das injustiças, ou seja, quando não as aceitamos de fato e não desejamos ser maleáveis ou conciliadores.
+Hoje quero discutir e apresentar os caminhos e o porquê, pelo menos de forma introdutória, não sermos maleáveis quando a questão é o enfrentamento das injustiças, ou seja, quando não as aceitamos de fato e não desejamos ser conciliadores.
 
 Parafraseando Rosa Luxemburgo: “Há todo um velho mundo ainda por destruir e todo um novo mundo a construir”.
 
