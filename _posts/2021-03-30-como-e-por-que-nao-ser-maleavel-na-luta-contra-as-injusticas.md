@@ -12,11 +12,11 @@ tags:
 author: yanka
 
 ---
-_Você já se perguntou por que o mundo é tão injusto ou já se sentiu extremamente impotente diante disso? Você não é o único. Pelo menos 95% do povo brasileiro se pergunta o mesmo todos os dias, isto porque pelo menos 5% das pessoas mais ricas do Brasil detém a maior parte da renda não distribuída no país de acordo com a Oxfam em 2019._
+_Você já se perguntou por que o mundo é tão injusto ou já se sentiu extremamente impotente diante disso? Você não é o único. Pelo menos 95% do povo brasileiro se pergunta o mesmo todos os dias, isto porque somente 5% das pessoas mais ricas do Brasil detém a maior parte da riqueza não distribuída no país de acordo com a Oxfam em 2019._
 
 A _injustiça_ que citamos no título desse escrito tem nome e um significado bastante amplo, advém de circunstâncias históricas e concretas, e se manifesta principalmente nas divisões das classes sociais. Quem é rico, cada vez fica mais rico, e quem é pobre cada vez fica mais pobre. Onde não há vacina para todos, não há trabalho, não há alimento ou moradia, estamos falando aqui sobre o capitalismo. E não é somente o empobrecimento das pessoas que está atrelado a esse sistema, mas todas as variáveis que afetam nossa vida, e que afetam há muito tempo.
 
-Hoje queremos discutir e apresentar os caminhos e o porquê, pelo menos de forma introdutória, não sermos maleáveis quando a questão é o enfrentamento das injustiças, ou seja, quando não as aceitamos de fato e não desejamos ser maleáveis ou conciliadores. 
+Hoje queremos discutir e apresentar os caminhos e o porquê, pelo menos de forma introdutória, não sermos maleáveis quando a questão é o enfrentamento das injustiças, ou seja, quando não as aceitamos de fato e não desejamos ser maleáveis ou conciliadores.
 
 Parafraseando Rosa Luxemburgo: “Há todo um velho mundo ainda por destruir e todo um novo mundo a construir”.
 
@@ -65,3 +65,6 @@ Na conjuntura atual do Brasil, a política de austeridade vem sendo a principal 
 **O Manifesto do Partido Comunista; disponível em:** [**https://www.expressaopopular.com.br/loja/wp-content/uploads/2020/02/manifesto-comunista-EP.pdf**](https://www.expressaopopular.com.br/loja/wp-content/uploads/2020/02/manifesto-comunista-EP.pdf "https://www.expressaopopular.com.br/loja/wp-content/uploads/2020/02/manifesto-comunista-EP.pdf")
 
 **Pedagogia do Oprimido; disponível em:** [**https://cpers.com.br/wp-content/uploads/2019/10/Pedagogia-do-Oprimido-Paulo-Freire.pdf**](https://cpers.com.br/wp-content/uploads/2019/10/Pedagogia-do-Oprimido-Paulo-Freire.pdf "https://cpers.com.br/wp-content/uploads/2019/10/Pedagogia-do-Oprimido-Paulo-Freire.pdf")
+
+**Relatório Oxfam:**  
+[https://www.oxfam.org.br/um-retrato-das-desigualdades-brasileiras/a-distancia-que-nos-une/](https://www.oxfam.org.br/um-retrato-das-desigualdades-brasileiras/a-distancia-que-nos-une/ "https://www.oxfam.org.br/um-retrato-das-desigualdades-brasileiras/a-distancia-que-nos-une/")
