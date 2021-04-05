@@ -4,8 +4,8 @@ layout: post
 title: Caminhos para se organizar politicamente contra as injustiças
 subtitle: Por Yanka Xavier
 description: Por Yanka Xavier
-image: https://i.imgur.com/V0drAZi.jpg
-optimized_image: https://i.imgur.com/V0drAZi.jpg
+image: https://i.imgur.com/9AAS58A.png
+optimized_image: https://i.imgur.com/9AAS58A.png
 category:
 - Educação Popular
 tags: 
