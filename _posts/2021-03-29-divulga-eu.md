@@ -7,7 +7,7 @@ description: Por Vanessa Ferrari
 image: https://i.imgur.com/rIXKsT0.png
 optimized_image: https://i.imgur.com/rIXKsT0.png
 category:
-- Divulga Eu!
+- Arte e Cultura
 tags: 
 author: vanessa
 
