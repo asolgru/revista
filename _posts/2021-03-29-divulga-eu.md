@@ -1,7 +1,7 @@
 ---
 date: 2021-03-29 17:05:00 +0000
 layout: post
-title: Divulga Eu!
+title: Divulga Eu! - Março 2021
 subtitle: Por Vanessa Ferrari
 description: Por Vanessa Ferrari
 image: https://i.imgur.com/rIXKsT0.png
@@ -12,8 +12,7 @@ tags:
 author: vanessa
 
 ---
- **  
-SUB (Flávio Alves)**, 43 anos, mineiro, morando atualmente em São Bernardo do Campo - SP. Rapper e Compositor, há 28 anos no cenário da música, especificamente no rap, 20 anos profissionalmente no grupo uclanos, que em 2009 foram finalistas do Reality Show Astros no SBT, ficando em segundo lugar no pódio, onde se abriram portas para importantes festivais da música, 2 CDs e vídeo clipes com nomes importantes.
+\**SUB (Flávio Alves)**, 43 anos, mineiro, morando atualmente em São Bernardo do Campo - SP. Rapper e Compositor, há 28 anos no cenário da música, especificamente no rap, 20 anos profissionalmente no grupo uclanos, que em 2009 foram finalistas do Reality Show Astros no SBT, ficando em segundo lugar no pódio, onde se abriram portas para importantes festivais da música, 2 CDs e vídeo clipes com nomes importantes.
 
 ![](https://i.imgur.com/HAVLOJ3.jpg)
 
@@ -100,7 +99,7 @@ Música: Paris (Mauricio)
 Ano: 1986
 
 **Redes sociais:  
-Youtube:** [https://youtube.com/c/RubensMelloarte](https://www.youtube.com/channel/UCYaka4t-5KBez6fEJmWn4Dw) 
+Youtube:** [https://youtube.com/c/RubensMelloarte](https://www.youtube.com/channel/UCYaka4t-5KBez6fEJmWn4Dw)
 
 **Facebook:** [https://www.facebook.com/rubens.luckfinger](https://www.facebook.com/rubens.luckfinger)
 
