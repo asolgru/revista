@@ -12,7 +12,7 @@ tags:
 author: vanessa
 
 ---
-\**SUB (Flávio Alves)**, 43 anos, mineiro, morando atualmente em São Bernardo do Campo - SP. Rapper e Compositor, há 28 anos no cenário da música, especificamente no rap, 20 anos profissionalmente no grupo uclanos, que em 2009 foram finalistas do Reality Show Astros no SBT, ficando em segundo lugar no pódio, onde se abriram portas para importantes festivais da música, 2 CDs e vídeo clipes com nomes importantes.
+**SUB (Flávio Alves)**, 43 anos, mineiro, morando atualmente em São Bernardo do Campo - SP. Rapper e Compositor, há 28 anos no cenário da música, especificamente no rap, 20 anos profissionalmente no grupo uclanos, que em 2009 foram finalistas do Reality Show Astros no SBT, ficando em segundo lugar no pódio, onde se abriram portas para importantes festivais da música, 2 CDs e vídeo clipes com nomes importantes.
 
 ![](https://i.imgur.com/HAVLOJ3.jpg)
 
