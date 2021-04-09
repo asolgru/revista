@@ -2,8 +2,8 @@
 date: 2021-03-29T20:57:00.000+00:00
 layout: post
 title: Jim Carrey e as diversas faces do humor
-subtitle: 'Por Luka Oliveira '
-description: 'Por Luka Oliveira '
+subtitle: Por Luka Oliveira e Thiago Alves
+description: Por Luka Oliveira e Thiago Alves
 image: https://i.imgur.com/ekRPWYH.jpg
 optimized_image: https://i.imgur.com/ekRPWYH.jpg
 category:
