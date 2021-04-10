@@ -10,13 +10,13 @@ permalink: /edicoes/
 <div><a href="http://cursinhoasol.com.br/revista/a-luta-que-se-perde-e-aquela-que-se-abandona/">
 
 <p>
-<img src="https://i.imgur.com/r6GUBke.png" style="float:left;width:226px;height:320px;padding: 10px 10px 10px 10px; text-align: justify;color:black;">
+<img src="https://i.imgur.com/xYKueLN.png" style="float:left;width:226px;height:320px;padding: 10px 10px 10px 10px; text-align: justify;color:black;">
 <strong>A luta que se perde, é aquela que se abandona</strong><br>
 Nesta edição, a Revista A-Sol compõe em seus temas os assuntos que nos introduz ao mundo da teoria política, da arte, da cultura, cinema, livros e mais. Saiba o que debatemos este mês em cada coluna.</p>
 </a></div>
 
 
-<div><a href="http://cursinhoasol.com.br/revista/fev2021-editorial/">
+<div><a href="https://i.imgur.com/REyLdCT.png">
 
 <p>
 <img src="https://i.imgur.com/is7Uf19.png" style="float:left;width:226px;height:320px;padding: 10px 10px 10px 10px; text-align: justify;color:black;">
