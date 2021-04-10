@@ -16,10 +16,10 @@ Nesta edição, a Revista A-Sol compõe em seus temas os assuntos que nos introd
 </a></div>
 
 
-<div><a href="https://i.imgur.com/REyLdCT.png">
+<div><a href="http://cursinhoasol.com.br/revista/fev2021-editorial/">
 
 <p>
-<img src="https://i.imgur.com/is7Uf19.png" style="float:left;width:226px;height:320px;padding: 10px 10px 10px 10px; text-align: justify;color:black;">
+<img src="https://i.imgur.com/REyLdCT.png" style="float:left;width:226px;height:320px;padding: 10px 10px 10px 10px; text-align: justify;color:black;">
 <strong>O militarismo não serve à Educação porque o objetivo das escolas não é versar, mas sim emancipar os estudantes</strong><br>
 Nesta edição de Fevereiro debatemos o projeto de militarização vigente no país e como isso atingirá a educação pública, os educadores e estudantes.</p>
 </a></div>
