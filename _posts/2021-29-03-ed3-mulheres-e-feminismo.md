@@ -19,9 +19,9 @@ Se pararmos para pensar, não faz muito tempo desde que os grupos feministas cla
 
 Hoje queremos que conheça de forma introdutória (e instigante) pelos menos algumas mulheres que compõe a história das artistas na modernidade e que, através de expressões irreverentes e originais, revelam os laços entre a luta e a arte da mulher num contexto de mundo patriarcal.
 
-**Guerrilas Girls**
+**Guerrila Girls**
 
-As _Guerrilas Girls,_ nome que surge de uma mistura entre “Gorila e Guerreira ou Guerrilheira”, é um coletivo feminista formado em Nova Iorque na década de 1985, e teve como missão desde o início combater o sexismo (discriminação de gênero) em museus. Hoje suas obras e cartazes são famosos em todo o mundo por conter a mistura entre o cômico e o trágico. Este coletivo incorpora estatísticas sociais a sua arte.
+As _Guerrila Girls,_ nome que surge de uma mistura entre “Gorila e Guerreira”, é um coletivo feminista formado em Nova Iorque na década de 1985, e teve como missão desde o início combater o sexismo (discriminação de gênero) em museus. Hoje suas obras e cartazes são famosos em todo o mundo por conter a mistura entre o cômico e o trágico. Este coletivo incorpora estatísticas sociais a sua arte.
 
 ![](https://i.imgur.com/Xdyo0j3.jpg)
 
