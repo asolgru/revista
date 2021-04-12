@@ -1,7 +1,7 @@
 ---
 date: 2021-03-29T23:26:32.000+00:00
 layout: post
-title: 'Guerrilla Girls, Ana Mendieta e Rosana Paulino: arte de impactos e reivindicações'
+title: 'Guerrilla Girls, Ana Mendieta e Rosana Paulino: arte de impacto e reivindicação'
 subtitle: Por Vanessa Ferrari e Yanka Xavier
 description: Por Vanessa Ferrari e Yanka Xavier
 image: https://i.imgur.com/YLJFqXV.jpg
