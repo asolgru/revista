@@ -1,5 +1,5 @@
 ---
-date: 2021-04-30T13:26:40.000+00:00
+date: 2021-05-01 02:21:40 +0000
 layout: post
 title: O falso dilema entre a vacina, a fome e a despolitização da luta
 subtitle: Por Yanka Xavier
