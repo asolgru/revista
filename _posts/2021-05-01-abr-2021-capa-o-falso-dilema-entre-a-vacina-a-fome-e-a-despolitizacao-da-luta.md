@@ -4,15 +4,13 @@ layout: post
 title: 'Capa: o falso dilema entre a vacina, a fome e a despolitização da luta'
 subtitle: ''
 description: ''
-image: ''
-optimized_image: https://i.imgur.com/yEQzbww.png
+image: https://i.imgur.com/UJ1a4c0.png
+optimized_image: https://i.imgur.com/DhYWbcT.png
 category: []
 tags: 
 author: ''
 
 ---
-![](https://i.imgur.com/DhYWbcT.png)
-
 Leia a Revista A-Sol de abril de 2021 e conheça mais sobre o cenário político, educacional e cultural de Guarulhos. A Revista A-Sol é construída por gente que mora e que constrói a cidade.
 
 No [Editorial](http://cursinhoasol.com.br/revista/abrl-2021-o-falso-dilema-entre-a-vacina-a-fome-e-a-despolitizacao-da-luta/) desta edição, debatemos a realidade da população no contexto de governo neoliberal e pandemia, esmagado pela fome, pela dificuldade de organização e pela desigualdade no acesso à vacina.
