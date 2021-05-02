@@ -1,5 +1,5 @@
 ---
-date: 2021-04-30 23:08:00 +0000
+date: 2021-04-30 20:08:00 +0000
 layout: post
 title: 'Literatura como direito fundamental, fator de inclusão: um tributo ao mestre
   Candido'
