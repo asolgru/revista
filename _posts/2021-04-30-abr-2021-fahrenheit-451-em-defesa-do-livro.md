@@ -1,7 +1,7 @@
 ---
 date: 2021-04-30T17:00:00.000+00:00
 layout: post
-title: 'Fahrenheit 451: Em defesa do livro'
+title: 'Fahrenheit 451: em defesa do livro'
 subtitle: Por Priscila Soares
 description: Por Priscila Soares
 image: https://i.imgur.com/acUTwsc.jpg
