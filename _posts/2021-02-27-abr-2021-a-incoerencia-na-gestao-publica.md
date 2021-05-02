@@ -1,5 +1,5 @@
 ---
-date: 2021-02-27T22:59:00.000+00:00
+date: 2021-04-30 22:59:00 +0000
 layout: post
 title: A incoerência na gestão pública
 subtitle: Por Fernando Tomé de Oliveira
