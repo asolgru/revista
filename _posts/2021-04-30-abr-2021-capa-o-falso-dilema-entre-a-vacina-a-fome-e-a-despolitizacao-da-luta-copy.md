@@ -2,13 +2,13 @@
 date: 2021-05-01 02:22:40 +0000
 layout: post
 title: 'Capa: O falso dilema entre a vacina, a fome e a despolitização da luta'
-subtitle: Por Yanka Xavier
+subtitle: ''
 description: ''
 image: https://i.imgur.com/UJ1a4c0.png
 optimized_image: https://i.imgur.com/DhYWbcT.png
-category: Editorial
+category: []
 tags: 
-author: yanka
+author: ''
 
 ---
 Leia a Revista A-Sol de abril de 2021 e conheça mais sobre o cenário político, educacional e cultural de Guarulhos. A Revista A-Sol é construída por gente que mora e que faz Guarulhos.
