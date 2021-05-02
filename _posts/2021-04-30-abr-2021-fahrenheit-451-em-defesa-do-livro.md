@@ -15,11 +15,11 @@ author: priscila
 Olá galera!  
 Nesta edição, gostaria de compartilhar com vocês um assunto pra lá de intrigante, extremamente relevante e sintonizado as tendências políticas e sociais.
 
-Estou falando sobre o livro Fahrenheit 451, publicado em 1953, pelo escritor norte-americano Ray Bradbury.
+Estou falando sobre o livro **Fahrenheit 451**, publicado em 1953, pelo escritor norte-americano Ray Bradbury.
 
 Você já imaginou viver num lugar onde os livros fossem proibidos?! Ou ainda pior, queimados?!
 
-“Queimar era um prazer. Era um prazer especial ver as coisas devoradas”. (frase do livro).
+_“Queimar era um prazer. Era um prazer especial ver as coisas devoradas”. (frase do livro)._
 
 Temos aqui um romance sobre a realidade distópica, onde a narrativa acompanha a trajetória de Guy Montag, um bombeiro na qual sua função é incendiar livros. Montag faz parte de uma corporação de agentes do Estado que manipulam, fiscalizam pessoas, e destroem os livros.  
 (eu fiquei agoniada só de imaginar).
