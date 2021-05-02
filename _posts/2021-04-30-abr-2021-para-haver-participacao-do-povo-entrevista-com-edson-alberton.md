@@ -5,8 +5,8 @@ title: '"Para haver participação do povo, as lideranças têm que assumir seu 
   entrevista com Edson Alberton'
 subtitle: Por Walter Bolitto
 description: Por Walter Bolitto
-image: https://i.imgur.com/E9GXHHL.jpg
-optimized_image: https://i.imgur.com/E9GXHHL.jpg
+image: https://i.imgur.com/IyshnmF.png
+optimized_image: https://i.imgur.com/IyshnmF.png
 category:
 - entrevista
 tags: 
