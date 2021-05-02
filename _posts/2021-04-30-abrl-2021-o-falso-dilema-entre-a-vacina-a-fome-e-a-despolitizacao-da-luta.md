@@ -1,5 +1,5 @@
 ---
-date: 2021-05-01 02:21:40 +0000
+date: 2021-05-01T02:21:40.000+00:00
 layout: post
 title: O falso dilema entre a vacina, a fome e a despolitização da luta
 subtitle: Por Yanka Xavier
@@ -11,6 +11,7 @@ tags:
 author: yanka
 
 ---
+
 Através de um projeto político desigual e propositalmente confuso, a vacina e o direito ao alimento são endereçados conforme cor, gênero e endereço, como aponta um estudo feito pelo Made-USP (Centro de Pesquisa em Macroeconomia das Desigualdades da FEA-USP) e que estará disponível em link ao final desse escrito, estima-se que até 61,1 milhões de pessoas estão em situação precária no Brasil em 2021, enfatizando a importância do Auxílio Emergencial para conter o aumento da pobreza e da extrema pobreza durante a pandemia de Covid-19.
 
 Segundo a classe empresarial burguesa e o governo de Bolsonaro, o confinamento em massa para assegurar vidas na pandemia trará ao país uma crise econômica que culminará em uma profunda recessão. Não é isso que se prova mediante a atual situação de países como China, Cuba, Vietnã que cumpriram com o isolamento social somado a programas de auxílio financeiro ao povo; também não é o que os dados e especialistas nos dizem.
@@ -31,7 +32,7 @@ Nesse sentido, o maior interesse desse projeto político é o lucro acima de tod
 
 Sendo imposta a nós esse tipo de realidade, quais são as opções diante do projeto político que a todo momento investe em precarizar nossas vidas e dizimar nossos direitos?
 
-Como escrevia Carlos Lamarca, precisamos “Ousar lutar, ousar vencer”.
+Como escrevia Carlos Lamarca, precisamos **_“Ousar lutar, ousar vencer”._**
 
 No debate sobre como se organizar politicamente contra essas e outras injustiças, [preparei um texto para a edição de março]() da Revista A-Sol onde converso com o leitor sobre os possíveis caminhos para construir um enfrentamento coletivo, caminhos esses que foram baseados em alguns escritos filosóficos, políticos e revolucionários que compõe o pensamento socialista e emancipatório de Paulo Freire a Marx, visto sua propriedade em organizar a massa trabalhadora através principalmente da educação e da prática.
 
@@ -41,7 +42,7 @@ Em resumo, revela-se fundamental pensar a prática através da organização col
 
 **Livro:** Sintomas Mórbidos da socióloga Sabrina Fernandes publicado em 2019 pela editora Autonomia Literária.
 
-**Estudo da Made-Usp disponível em:** [**https://madeusp.com.br/publicacoes/artigos/genero-e-raca-em-evidencia-durante-a-pandemia-no-brasil-o-impacto-do-auxilio-emergencial-na-pobreza-e-extrema-pobreza/**](https://madeusp.com.br/publicacoes/artigos/genero-e-raca-em-evidencia-durante-a-pandemia-no-brasil-o-impacto-do-auxilio-emergencial-na-pobreza-e-extrema-pobreza/ "https://madeusp.com.br/publicacoes/artigos/genero-e-raca-em-evidencia-durante-a-pandemia-no-brasil-o-impacto-do-auxilio-emergencial-na-pobreza-e-extrema-pobreza/") **e** [https://madeusp.com.br/wp-content/uploads/2021/04/NPE-010-VF.pdf](https://madeusp.com.br/wp-content/uploads/2021/04/NPE-010-VF.pdf "https://madeusp.com.br/wp-content/uploads/2021/04/NPE-010-VF.pdf")
+**Estudo da Made-Usp disponível em:** [https://madeusp.com.br/publicacoes/artigos/genero-e-raca-em-evidencia-durante-a-pandemia-no-brasil-o-impacto-do-auxilio-emergencial-na-pobreza-e-extrema-pobreza/](https://madeusp.com.br/publicacoes/artigos/genero-e-raca-em-evidencia-durante-a-pandemia-no-brasil-o-impacto-do-auxilio-emergencial-na-pobreza-e-extrema-pobreza/ "https://madeusp.com.br/publicacoes/artigos/genero-e-raca-em-evidencia-durante-a-pandemia-no-brasil-o-impacto-do-auxilio-emergencial-na-pobreza-e-extrema-pobreza/") e em pdf: [https://madeusp.com.br/wp-content/uploads/2021/04/NPE-010-VF.pdf](https://madeusp.com.br/wp-content/uploads/2021/04/NPE-010-VF.pdf "https://madeusp.com.br/wp-content/uploads/2021/04/NPE-010-VF.pdf")
 
 **Matéria do jornal El País:** [https://brasil.elpais.com/ciencia/2021-04-17/por-que-falamos-de-70-da-populacao-vacinada-como-uma-cifra-magica-para-acabar-com-a-covid-19.html](https://brasil.elpais.com/ciencia/2021-04-17/por-que-falamos-de-70-da-populacao-vacinada-como-uma-cifra-magica-para-acabar-com-a-covid-19.html "https://brasil.elpais.com/ciencia/2021-04-17/por-que-falamos-de-70-da-populacao-vacinada-como-uma-cifra-magica-para-acabar-com-a-covid-19.html")
 
