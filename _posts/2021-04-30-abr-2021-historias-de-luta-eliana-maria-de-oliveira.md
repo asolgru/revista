@@ -24,6 +24,8 @@ Ao chegar na Proguaru, sentiu falta da valorização do IBGE e dos assuntos dire
 
 Eliana sempre se interessou pelos estudos, por isso teve que enfrentar a educação mesmo longe de casa, uma vez que cursou a EJA em Aracaju, experiência que não romantiza devido as diversas provações que teve que passar para conquistar seu diploma. Por outro lado, teve que atrasar, por assim dizer, sua formação por dar prioridade aos estudos dos filhos. No momento, irá prestar vestibular na UNIVESP, mas sem a estabilidade que previa em seus planos.
 
+![](https://i.imgur.com/0jQT2Bs.jpg)
+
 “além de imoral, a fala do prefeito (em relação a extinção da autarquia) foi inconstitucional, uma afronta também as pessoas mais velhas que estavam inclusive nas manifestações. Comecei a me engajar diretamente na luta porque para mim só a manifestação não era o suficiente. Sou uma pessoa que odeia injustiças”.
 
 A questão da Proguaru alcançou outros níveis e contou com o apoio de figuras políticas como Glauber Rocha, Guilherme Boulos, Sâmia Bonfim, Alencar, Mauro Iasi e outros, além dos vereadores do PT e Psol que foram a minoria que votaram contra essa barbaridade na Câmara municipal.
