@@ -32,3 +32,5 @@ Em [Ensaios](http://cursinhoasol.com.br/revista/abr-2021-literatura-como-direito
 Na coluna [Resenha](http://cursinhoasol.com.br/revista/abr-2021-fahrenheit-451-em-defesa-do-livro/), apresentamos a ficção distópica Fahrenheit 451, e traçamos um paralelo com o Brasil de 2021.
 
 No Divulga Eu!, conheça artistas atuantes na cena de Guarulhos e da grande São Paulo.
+
+Na coluna Espaço A-Sol, veja o que rolou no nosso Movimento Social no mês de abril.
