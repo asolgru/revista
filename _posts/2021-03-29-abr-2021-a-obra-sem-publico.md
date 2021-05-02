@@ -1,5 +1,5 @@
 ---
-date: 2021-03-29T23:26:32.000+00:00
+date: 2021-04-30 23:26:32 +0000
 layout: post
 title: A obra sem público
 subtitle: Por Vanessa Ferrari
