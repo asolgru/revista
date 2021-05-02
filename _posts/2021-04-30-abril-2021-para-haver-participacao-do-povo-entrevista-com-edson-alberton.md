@@ -1,5 +1,5 @@
 ---
-date: 2021-04-30T23:59:00.000+00:00
+date: 2021-04-30 23:57:00 +0000
 layout: post
 title: '"Para haver participação do povo, as lideranças têm que assumir seu papel",
   entrevista com Edson Alberton'
