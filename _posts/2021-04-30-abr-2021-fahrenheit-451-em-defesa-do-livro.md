@@ -38,7 +38,7 @@ Bom galera, não vou adiante com a história, pois teríamos alguns spoillers! M
 
 Deixo aqui mais uma frase do livro ⤵️
 
-“Se o governo é ineficiente, despótico e ávido por impostos, melhor que ele seja tudo isso do que as pessoas se preocuparem com isso”.
+_“Se o governo é ineficiente, despótico e ávido por impostos, melhor que ele seja tudo isso do que as pessoas se preocuparem com isso”._
 
 Confesso que incomodou, e me fez refletir que não estamos longe disso, infelizmente a algumas semanas atrás, tivemos a notícia que a reforma tributária propôs criar uma contribuição especial (CBS) com alíquota de 12% sob os livros, tratando como item de Elite. Como já não bastasse alguns livros caros, eles “vomitaram” desculpem o vocabulário, que o pobre não lê, que o livro é um produto para elite.
 
