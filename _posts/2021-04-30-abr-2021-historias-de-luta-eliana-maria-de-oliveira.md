@@ -12,7 +12,7 @@ tags:
 author: yanka
 
 ---
-Eliana Maria de Oliveira é servidora na Proguaru (Progresso e Desenvolvimento de Guarulhos)  empresa mista (sendo que grande parte pertence à Prefeitura) que presta serviços gerais na cidade de Guarulhos desde 1979, e que agora se vê em meio a luta para manter seu emprego junto dos 4.700 trabalhadores que estão com seus empregos ameaçados desde a publicação do Projeto de Lei 2745/2020 que foi apresentado à Câmara Municipal de Guarulhos (a toque de caixa) em dezembro do ano passado. Desde então, a mobilização dos trabalhadores e trabalhadoras tem sido organizada de forma constante e coletiva.
+Eliana Maria de Oliveira é servidora na Proguaru (Progresso e Desenvolvimento de Guarulhos)  empresa mista (sendo que grande parte pertence a Prefeitura) que presta serviços gerais na cidade de Guarulhos desde 1979, e que agora se vê em meio a luta para manter seu emprego junto dos 4.700 trabalhadores que estão com seus empregos ameaçados desde a publicação do Projeto de Lei 2745/2020 que foi apresentado à Câmara Municipal de Guarulhos (a toque de caixa) em dezembro do ano passado. Desde então, a mobilização dos trabalhadores e trabalhadoras tem sido organizada de forma constante e coletiva.
 
 Hoje trazemos a história de luta da Eliana para conhecermos um pouco mais sobre esses servidores e mostrar como sua vida esta relacionada com o acesso ou a ausência deste no tocante a condições básicas de sobrevivência, e que o direito ao trabalho compõe esse grupo de necessidades fundamentais.
 
