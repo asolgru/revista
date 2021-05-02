@@ -33,7 +33,7 @@ Sendo imposta a nós esse tipo de realidade, quais são as opções diante do pr
 
 Como escrevia Carlos Lamarca, precisamos “Ousar lutar, ousar vencer”.
 
-No debate sobre como se organizar politicamente contra essas e outras injustiças, preparei um texto para a edição de março da Revista A-Sol onde converso com o leitor sobre os possíveis caminhos para construir um enfrentamento coletivo, caminhos esses que foram baseados em alguns escritos filosóficos, políticos e revolucionários que compõe o pensamento socialista e emancipatório de Paulo Freire a Marx, visto sua propriedade em organizar a massa trabalhadora através principalmente da educação e da prática.
+No debate sobre como se organizar politicamente contra essas e outras injustiças, [preparei um texto para a edição de março]() da Revista A-Sol onde converso com o leitor sobre os possíveis caminhos para construir um enfrentamento coletivo, caminhos esses que foram baseados em alguns escritos filosóficos, políticos e revolucionários que compõe o pensamento socialista e emancipatório de Paulo Freire a Marx, visto sua propriedade em organizar a massa trabalhadora através principalmente da educação e da prática.
 
 Em resumo, revela-se fundamental pensar a prática através da organização coletiva, da conscientização necessária para interpretar a conjuntura e principalmente trabalhar ações a partir da raiz do problema. Não basta ficar remendando as pontas, é preciso entender a existência da estrutura que sustenta esse projeto político e construir a práxis que busque romper com esse modo de produzir e de pensar o mundo em que vivemos. É preciso tomar nosso destino em nossas mãos.
 
