@@ -5,7 +5,7 @@ title: 'Capa: o falso dilema entre a vacina, a fome e a despolitização da luta
 subtitle: ''
 description: ''
 image: https://i.imgur.com/DhYWbcT.png
-optimized_image: https://images.gr-assets.com/authors/1270465248p8/875726.jpg
+optimized_image: https://i.imgur.com/UJ1a4c0.png
 category: []
 tags: 
 author: ''
@@ -15,15 +15,15 @@ Leia a Revista A-Sol de abril de 2021 e conheça mais sobre o cenário político
 
 No [Editorial](http://cursinhoasol.com.br/revista/abrl-2021-o-falso-dilema-entre-a-vacina-a-fome-e-a-despolitizacao-da-luta/) desta edição, debatemos a realidade da população no contexto de governo neoliberal e pandemia, esmagado pela fome, pela dificuldade de organização e pela desigualdade no acesso à vacina.
 
-Em Educação, apresentamos a produção intelectual de Josué de Castro, geógrafo que dedicou uma vida a pesquisar a temática da fome.
+Em [Educação](), apresentamos a produção intelectual de Josué de Castro, geógrafo que dedicou uma vida a pesquisar a temática da fome.
 
 Na coluna [Histórias de Luta](http://cursinhoasol.com.br/revista/abr-2021-historias-de-luta-eliana-maria-de-oliveira/), inaugurada para apresentar histórias pessoais do povo que constrói a cidade tijolo por tijolo, e nesta edição você conhecerá a história de Eliana Maria de Oliveira, trabalhadora da Proguaru.
 
-Na coluna Entrevista, você conhecerá mais sobre a vida e a visão de luta de Edson Alberton, militante e ex-vereador de Guarulhos.
+Na coluna [Entrevista](http://cursinhoasol.com.br/revista/abr-2021-para-haver-participacao-do-povo-entrevista-com-edson-alberton/), você conhecerá mais sobre a vida e a visão de luta de Edson Alberton, militante e ex-vereador de Guarulhos.
 
 Em [Arte e Cultura](http://cursinhoasol.com.br/revista/abr-2021-a-obra-sem-publico/), discutimos a situação do cenário cultural e de seus espaços após um ano de pandemia e isolamento social, e trabalhos artísticos pensados neste período.
 
-Já em Opinião, discutimos a incoerência na gestão pública no contexto da cidade, e os desdobramentos na vida do trabalhador guarulhense.
+Já em [Opinião](http://cursinhoasol.com.br/revista/abr-2021-a-incoerencia-na-gestao-publica/), discutimos a incoerência na gestão pública no contexto da cidade, e os desdobramentos na vida do trabalhador guarulhense.
 
 Em [Cinema](), trazemos dois clássicos do cinema brasileiro, e a importância do Cinema Novo nas produções da década de 60 e sua influência moderna.
 
