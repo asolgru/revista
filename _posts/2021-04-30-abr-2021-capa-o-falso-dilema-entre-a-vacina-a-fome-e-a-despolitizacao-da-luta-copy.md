@@ -13,7 +13,7 @@ author: ''
 ---
 Leia a Revista A-Sol de abril de 2021 e conheça mais sobre o cenário político, educacional e cultural de Guarulhos. A Revista A-Sol é construída por gente que mora e que faz Guarulhos.
 
-No Editorial desta edição, debatemos a realidade da população no contexto de governo neoliberal e pandemia, esmagado pela fome, pela dificuldade de organização e pela desigualdade no acesso à vacina.
+No Editorial desta edição, debatemos a realidade da população no contexto de governo neoliberal e pandemia, esmagado pela fome, pela dificuldade de organização e pela desigualdade no acesso à vacina. 
 
 Em Educação, apresentamos a produção intelectual de Josué de Castro, geógrafo que dedicou uma vida a pesquisar a temática da fome.
 
