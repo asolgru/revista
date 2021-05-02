@@ -5,7 +5,7 @@ title: 'Histórias de Luta: Eliana Maria de Oliveira'
 subtitle: Por Yanka Xavier
 description: Por Yanka Xavier
 image: https://i.imgur.com/NbOssup.jpg
-optimized_image: https://i.imgur.com/E9GXHHL.jpg
+optimized_image: https://i.imgur.com/NbOssup.jpg
 category:
 - Histórias de luta
 tags: 
