@@ -1,7 +1,7 @@
 ---
 date: 2021-05-01 02:22:40 +0000
 layout: post
-title: 'Capa: O falso dilema entre a vacina, a fome e a despolitização da luta'
+title: 'Capa: o falso dilema entre a vacina, a fome e a despolitização da luta'
 subtitle: ''
 description: ''
 image: https://i.imgur.com/DhYWbcT.png
