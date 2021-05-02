@@ -5,7 +5,7 @@ title: 'Capa: o falso dilema entre a vacina, a fome e a despolitização da luta
 subtitle: ''
 description: ''
 image: https://i.imgur.com/DhYWbcT.png
-optimized_image: https://i.imgur.com/UJ1a4c0.png
+optimized_image: https://images.gr-assets.com/authors/1270465248p8/875726.jpg
 category: []
 tags: 
 author: ''
