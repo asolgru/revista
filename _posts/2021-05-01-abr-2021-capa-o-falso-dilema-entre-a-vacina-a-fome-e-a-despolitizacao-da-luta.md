@@ -21,14 +21,14 @@ Na coluna [Histórias de Luta](http://cursinhoasol.com.br/revista/abr-2021-histo
 
 Na coluna Entrevista, você conhecerá mais sobre a vida e a visão de luta de Edson Alberton, militante e ex-vereador de Guarulhos.
 
-Em Arte e cultura, discutimos a situação do cenário cultural e de seus espaços após um ano de pandemia e isolamento social, e trabalhos artísticos pensados neste período.
+Em [Arte e Cultura](http://cursinhoasol.com.br/revista/abr-2021-a-obra-sem-publico/), discutimos a situação do cenário cultural e de seus espaços após um ano de pandemia e isolamento social, e trabalhos artísticos pensados neste período.
 
 Já em Opinião, discutimos a incoerência na gestão pública no contexto da cidade, e os desdobramentos na vida do trabalhador guarulhense.
 
-Em Cinema, trazemos dois clássicos do cinema brasileiro, e a importância do Cinema Novo nas produções da década de 60 e sua influência moderna.
+Em [Cinema](), trazemos dois clássicos do cinema brasileiro, e a importância do Cinema Novo nas produções da década de 60 e sua influência moderna.
 
-Em Ensaios, apresentamos o trabalho de Antonio Candido, e sua visão sobre a importância da literatura.
+Em [Ensaios](http://cursinhoasol.com.br/revista/abr-2021-literatura-como-direito-fundamental-fator-de-inclusao-um-tributo-ao-mestre-candido/), apresentamos o trabalho de Antonio Candido, e sua visão sobre a importância da literatura.
 
-Na coluna Resenha, apresentamos a ficção distópica Fahrenheit 451, e traçamos um paralelo com o Brasil de 2021.
+Na coluna [Resenha](http://cursinhoasol.com.br/revista/abr-2021-fahrenheit-451-em-defesa-do-livro/), apresentamos a ficção distópica Fahrenheit 451, e traçamos um paralelo com o Brasil de 2021.
 
 No Divulga Eu!, conheça artistas atuantes na cena de Guarulhos e da grande São Paulo.
