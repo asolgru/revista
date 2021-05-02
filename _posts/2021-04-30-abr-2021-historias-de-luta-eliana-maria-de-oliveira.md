@@ -28,7 +28,7 @@ Eliana sempre se interessou pelos estudos, por isso teve que enfrentar a educaç
 
 “além de imoral, a fala do prefeito (em relação a extinção da autarquia) foi inconstitucional, uma afronta também as pessoas mais velhas que estavam inclusive nas manifestações. Comecei a me engajar diretamente na luta porque para mim só a manifestação não era o suficiente. Sou uma pessoa que odeia injustiças”.
 
-A questão da Proguaru alcançou outros níveis e contou com o apoio de figuras políticas como Glauber Rocha, Guilherme Boulos, Sâmia Bonfim, Alencar, Mauro Iasi e outros, além dos vereadores do PT e Psol que foram a minoria que votaram contra essa barbaridade na Câmara municipal.
+A questão da Proguaru alcançou outros níveis e contou com o apoio de figuras políticas como Glauber Rocha, Guilherme Boulos, Sâmia Bonfim, Alencar, Mauro Iasi e outros, além dos vereadores do PT e Psol que foram a minoria que votaram contra essa barbaridade na Câmara municipal e ainda outros movimentos socais.
 
 “das realidades que existem na vida, da mais humilde a mais suntuosa, conheço todas. Talvez não aquela de milionário, mas a da classe mais abastada também conheço, porque já vive todas essas realidades (…) sei o quanto isso afeta o ânimo e vontade de viver”.
 
