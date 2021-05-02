@@ -12,6 +12,8 @@ tags:
 author: yanka
 
 ---
+_“Eu procuro ter empatia. Essa coisa de se colocar no lugar do outro. É isso o que ainda me motiva à luta, apesar de ver pessoas sendo contra a própria luta. É preciso que alguém tome a iniciativa de mostrar a cara sem medo”_
+
 Eliana Maria de Oliveira é servidora na Proguaru (Progresso e Desenvolvimento de Guarulhos) autarquia que presta serviços gerais na cidade de Guarulhos desde 1979, e agora se vê em meio a luta para manter seu emprego junto dos 4.700 trabalhadores que estão com seu sustento ameaçado desde a publicação do Projeto de Lei 2745/2020 que foi apresentado à Câmara Municipal de Guarulhos (a toque de caixa) em dezembro do ano passado. Desde então, a mobilização dos trabalhadores e trabalhadoras tem sido organizada de forma constante e coletiva.
 
 Hoje trazemos a história de luta da Eliana para conhecermos um pouco mais sobre esses servidores e mostrar como sua vida esta relacionada com o acesso (ou a ausência) no tocante a condições básicas de sobrevivência, e que o direito ao trabalho compõe esse grupo de necessidades fundamentais.
