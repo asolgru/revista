@@ -13,11 +13,11 @@ author: ''
 ---
 Leia a Revista A-Sol de abril de 2021 e conheça mais sobre o cenário político, educacional e cultural de Guarulhos. A Revista A-Sol é construída por gente que mora e que faz Guarulhos.
 
-No Editorial desta edição, debatemos a realidade da população no contexto de governo neoliberal e pandemia, esmagado pela fome, pela dificuldade de organização e pela desigualdade no acesso à vacina. 
+No [Editorial](http://cursinhoasol.com.br/revista/abrl-2021-o-falso-dilema-entre-a-vacina-a-fome-e-a-despolitizacao-da-luta/) desta edição, debatemos a realidade da população no contexto de governo neoliberal e pandemia, esmagado pela fome, pela dificuldade de organização e pela desigualdade no acesso à vacina.
 
 Em Educação, apresentamos a produção intelectual de Josué de Castro, geógrafo que dedicou uma vida a pesquisar a temática da fome.
 
-Na coluna Histórias de Luta, inaugurada para apresentar histórias pessoais do povo que constrói a cidade tijolo por tijolo, e nesta edição você conhecerá a história de Eliana Maria de Oliveira, trabalhadora da Proguaru.
+Na coluna [Histórias de Luta](http://cursinhoasol.com.br/revista/abr-2021-historias-de-luta-eliana-maria-de-oliveira/), inaugurada para apresentar histórias pessoais do povo que constrói a cidade tijolo por tijolo, e nesta edição você conhecerá a história de Eliana Maria de Oliveira, trabalhadora da Proguaru.
 
 Na coluna Entrevista, você conhecerá mais sobre a vida e a visão de luta de Edson Alberton, militante e ex-vereador de Guarulhos.
 
