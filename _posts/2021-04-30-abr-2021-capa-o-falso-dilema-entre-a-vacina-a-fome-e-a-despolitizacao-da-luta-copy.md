@@ -1,11 +1,11 @@
 ---
-date: 2021-04-30 13:22:40 +0000
+date: 2021-05-01 02:22:40 +0000
 layout: post
 title: 'Capa: O falso dilema entre a vacina, a fome e a despolitização da luta'
 subtitle: Por Yanka Xavier
 description: ''
-image: https://i.imgur.com/DhYWbcT.png
-optimized_image: https://i.imgur.com/UJ1a4c0.png
+image: https://i.imgur.com/UJ1a4c0.png
+optimized_image: https://i.imgur.com/DhYWbcT.png
 category: Editorial
 tags: 
 author: yanka
