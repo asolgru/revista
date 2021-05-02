@@ -7,6 +7,17 @@ permalink: /edicoes/
 
 <h1> Edições </h1>
 
+<div><a href="http://cursinhoasol.com.br/revista/abr-2021-capa-o-falso-dilema-entre-a-vacina-a-fome-e-a-despolitizacao-da-luta/">
+
+<p>
+<img src="https://i.imgur.com/DhYWbcT.png" style="float:left;width:226px;height:320px;padding: 10px 10px 10px 10px; text-align: justify;color:black;">
+<strong>A luta que se perde, é aquela que se abandona</strong><br>
+Através de um projeto político desigual e propositalmente confuso, a vacina e o direito ao alimento são endereçados conforme cor, gênero e endereço. Leia a Revista A-Sol de abril de 2021 e conheça mais sobre o cenário político, educacional e cultural de Guarulhos.</p>
+</a></div>
+
+
+<h1> Edições </h1>
+
 <div><a href="http://cursinhoasol.com.br/revista/a-luta-que-se-perde-e-aquela-que-se-abandona/">
 
 <p>
