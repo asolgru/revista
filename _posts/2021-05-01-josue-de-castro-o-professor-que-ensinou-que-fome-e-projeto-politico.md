@@ -4,8 +4,8 @@ layout: post
 title: 'Josué de Castro: o professor que ensinou que fome é projeto político'
 subtitle: Por Rebeca Assis
 description: Por Rebeca Assis
-image: https://i.imgur.com/pp87oH3.png
-optimized_image: https://i.imgur.com/pp87oH3.png
+image: https://i.imgur.com/mA4MH7z.jpg
+optimized_image: https://i.imgur.com/mA4MH7z.jpg
 category:
 - Educação
 tags: 
