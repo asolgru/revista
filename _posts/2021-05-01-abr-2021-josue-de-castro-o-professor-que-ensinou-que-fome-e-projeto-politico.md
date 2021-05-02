@@ -12,6 +12,7 @@ tags:
 author: rebeca
 
 ---
+
 Os quadros da fome são indigestos. Desviamos nosso olhar quando vemos um faminto, mudamos de assunto quando este é o tema, falamos da abundância, das promessas futuras frentes às conquistas e avanços no campo tecnológico e científico, da esperança de dias melhores, fugimos do tema por ser incômodo e desagradável, assim como fugimos dos famintos por temê-los.
 
 Consciente de que o tema da fome não era agradável e nem belo, ao escrever em 1946 o prefácio da primeira edição de seu livro Geografia da Fome, Josué de Castro alerta os leitores de que a fome era um assunto delicado e perigoso por suas implicações políticas e sociais, de modo que havia até então permanecido como um dos tabus de nossa civilização.
