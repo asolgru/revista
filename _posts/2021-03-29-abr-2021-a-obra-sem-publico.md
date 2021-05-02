@@ -26,7 +26,7 @@ Qualquer pessoa pode participar do projeto indo até o perfil no Instagram: @cov
 
 ###### ![](https://i.imgur.com/LL60h6B.png)
 
-###### f@covidartmuseum by [@giovanni_romanoart](https://www.instagram.com/giovanni_romanoart/)
+###### @covidartmuseum by [@giovanni_romanoart](https://www.instagram.com/giovanni_romanoart/)
 
 "Touch me, maybe it will be like before"
 
