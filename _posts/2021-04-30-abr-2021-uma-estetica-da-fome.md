@@ -2,8 +2,8 @@
 date: 2021-04-30T20:57:00.000+00:00
 layout: post
 title: Uma estética da fome
-subtitle: Por Luka Oliveira e Thiago Alves
-description: Por Luka Oliveira e Thiago Alves
+subtitle: Por Luka Oliveira, Thiago Alves e Caroline Locatelli
+description: Por Luka Oliveira, Thiago Alves e Caroline Locatelli
 image: https://i.imgur.com/QD6Nzj4.jpg
 optimized_image: https://i.imgur.com/QD6Nzj4.jpg
 category:
@@ -114,4 +114,4 @@ Valorize o cinema nacional e acompanhe mais uma dica da revista A-Sol!
 
 **Thiago Alves**, estuda programação e faz parte do A-Sol desde março de 2020.
 
-Caroline Locatelli, apaixonada por livros e cinema, amante do ínfimo ao infinito.
+**Caroline Locatelli**, apaixonada por livros e cinema, amante do ínfimo ao infinito.
