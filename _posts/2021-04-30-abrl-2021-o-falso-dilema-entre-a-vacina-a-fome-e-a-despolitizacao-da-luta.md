@@ -11,7 +11,7 @@ tags:
 author: yanka
 
 ---
-Através de um projeto político desigual e propositalmente confuso, a vacina e o direito ao alimento são endereçados conforme cor, gênero e região, como aponta um estudo feito pelo Made-USP (Centro de Pesquisa em Macroeconomia das Desigualdades da FEA-USP) e que estará disponível em link ao final desse escrito, estima-se que até 61,1 milhões de pessoas estão em situação precária no Brasil em 2021, enfatizando a importância do Auxílio Emergencial para conter o aumento da pobreza e da extrema pobreza durante a pandemia de Covid-19.
+Através de um projeto político desigual e propositalmente confuso, a vacina e o direito ao alimento são endereçados conforme cor, gênero e região, como aponta um estudo feito pelo Made-USP (Centro de Pesquisa em Macroeconomia das Desigualdades da FEA-USP) e que estará disponível em link ao final desse escrito, estima-se que até 61,1 milhões de pessoas estão em situação precária no Brasil em 2021, enfatizando a importância do Auxílio Emergencial para conter o aumento da pobreza e da extrema pobreza durante a pandemia da Covid-19.
 
 Segundo a classe empresarial burguesa e o governo de Bolsonaro, o confinamento em massa para assegurar vidas na pandemia trará ao país uma crise econômica que culminará em uma profunda recessão. Não é isso que se prova mediante a atual situação de países como China, Cuba, Vietnã que cumpriram com o isolamento social somado a programas de auxílio financeiro ao povo; também não é o que os dados e especialistas nos dizem.
 
