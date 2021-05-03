@@ -108,8 +108,10 @@ Se você não gosta de filmes com violência, talvez esse filme não seja para v
 
 Valorize o cinema nacional e acompanhe mais uma dica da revista A-Sol!
 
-![](https://i.imgur.com/QbCOncQ.png)
+![](https://i.imgur.com/fIeThrg.jpg)
 
 **Luka Oliveira**. Estudante de Filosofia, pesquisador de Filosofia e Cinema pelo GECEF. Professor voluntário no Cursinho Comunitário A-Sol.
 
 **Thiago Alves**, estuda programação e faz parte do A-Sol desde março de 2020.
+
+Caroline Locatelli, apaixonada por livros e cinema, amante do ínfimo ao infinito.
