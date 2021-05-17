@@ -3,7 +3,7 @@ date: 2021-05-17 16:54:00 +0000
 layout: post
 title: MANIFESTO DOS CURSINHOS COMUNITÁRIOS DE GUARULHOS EM APOIO ÀS UNIVERSIDADES
   FEDERAIS
-subtitle: Por Luka Oliveira, Thiago Alves e Caroline Locatelli
+subtitle: ''
 description: ''
 image: https://i.imgur.com/BoDoeZJ.jpg
 optimized_image: https://i.imgur.com/BoDoeZJ.jpg
