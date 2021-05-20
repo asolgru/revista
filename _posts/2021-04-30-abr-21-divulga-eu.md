@@ -25,6 +25,10 @@ Link dos textos: [https://www.spiritfanfiction.com/perfil/dinamitexe](https://ww
 
 wattpad.com/libellulidae
 
+**Redes sociais:**
+
+@isabelmiramontes
+
   
 ![](https://i.imgur.com/ZM2hz6u.jpg)
 
@@ -79,10 +83,6 @@ IR AO AR Escritos Etílicos
 **Mad Rodrigues, Valmir Quinto e Tiago Magrello**
 
 **Obra:** #isabelmiramontes
-
-**Redes sociais:**
-
-@isabelmiramontes
 
 “_Me chamo Mad Rodrigues, moro em Guarulhos e a minha família no nordeste (Piauí). Eles vieram no final da anos 1960 para São Paulo à trabalho._
 
