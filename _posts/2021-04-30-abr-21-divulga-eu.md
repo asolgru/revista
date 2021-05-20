@@ -122,7 +122,7 @@ Facebook: Mad Rodrigues
 
 ![](https://i.imgur.com/X0w2frC.jpg)
 
-Me chamo Pedro Galvão e moro na zona sul de São Paulo. Toco e estudo música desde os 12 anos, nunca foi uma coisa que pude ignorar, mas não sou muito bom com pessoas ou apresentações ao vivo, escolhi fazer música coletando pequenos fragmentos do mundo a minha volta e incorporando na minha música. O álbum Octopus Groove é o inicio de uma escada que após 11 anos de aprendizado comecei a subir, a idealização dessas músicas foi feita num período que eu estava há muito tempo sem compor. Esse album, pra mim, significa liberdade de expressão e coragem de ser tudo aquilo que precisamos ser para nos mantermos em pé mais um dia.
+Me chamo Pedro Galvão e moro na zona sul de São Paulo. Toco e estudo música desde os 12 anos, nunca foi uma coisa que pude ignorar, mas não sou muito bom com pessoas ou apresentações ao vivo, escolhi fazer música coletando pequenos fragmentos do mundo a minha volta e incorporando na minha música. O álbum Octopus Groove é o inicio de uma escada que após 11 anos de aprendizado comecei a subir, a idealização dessas músicas foi feita num período que eu estava há muito tempo sem compor. Esse álbum, pra mim, significa liberdade de expressão e coragem de ser tudo aquilo que precisamos ser para nos mantermos em pé mais um dia.
 
 ![](https://i.imgur.com/mp43Vcq.png)
 
