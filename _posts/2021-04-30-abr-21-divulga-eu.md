@@ -4,8 +4,8 @@ layout: post
 title: Divulga eu!
 subtitle: Por Vanessa Ferrari
 description: Por Vanessa Ferrari
-image: https://i.imgur.com/mp43Vcq.png
-optimized_image: https://i.imgur.com/mp43Vcq.png
+image: https://i.imgur.com/c4bpKaG.jpg
+optimized_image: https://i.imgur.com/c4bpKaG.jpg
 category: Arte e Cultura
 tags: 
 author: vanessa
