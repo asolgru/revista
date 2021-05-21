@@ -27,9 +27,8 @@ wattpad.com/libellulidae
 
 **Redes sociais:**
 
-@isabelmiramontes
+@libellulidae
 
-  
 ![](https://i.imgur.com/ZM2hz6u.jpg)
 
 Eu vou estar aqui
@@ -81,8 +80,6 @@ Idem
 IR AO AR Escritos Etílicos
 
 **Mad Rodrigues, Valmir Quinto e Tiago Magrello**
-
-**Obra:** #isabelmiramontes
 
 “_Me chamo Mad Rodrigues, moro em Guarulhos e a minha família no nordeste (Piauí). Eles vieram no final da anos 1960 para São Paulo à trabalho._
 
