@@ -15,9 +15,6 @@ permalink: /edicoes/
 Através de um projeto político desigual e propositalmente confuso, a vacina e o direito ao alimento são endereçados conforme cor, gênero e endereço. Leia a Revista A-Sol de abril de 2021 e conheça mais sobre o cenário político, educacional e cultural de Guarulhos.</p>
 </a></div>
 
-
-<h1> Edições </h1>
-
 <div><a href="http://cursinhoasol.com.br/revista/a-luta-que-se-perde-e-aquela-que-se-abandona/">
 
 <p>
