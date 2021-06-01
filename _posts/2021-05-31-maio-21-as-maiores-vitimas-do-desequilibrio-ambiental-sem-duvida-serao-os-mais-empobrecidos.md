@@ -1,7 +1,7 @@
 ---
 date: 2021-05-31 23:57:00 +0000
 layout: post
-title: '"As maiores vítimas do desequilíbrio ambiental sem dúvida serão os mais empobrecidos"'
+title: '"As maiores vítimas do desequilíbrio ambiental sem dúvidas serão os mais empobrecidos"'
 subtitle: Por Walter Bolitto
 description: Por Walter Bolitto
 image: https://i.imgur.com/mw1cHkI.jpg
@@ -66,7 +66,7 @@ Instrumentos urbanístico, financeiro, controle foram perdidos ou estão sendo m
 
 Costumo brincar que se o primeiro governo municipal foi ruim, o segundo, com toda essas leis aprovadas ou vias de aprovar e regulamentar coloca em suas mãos a chance de fazer um governo prejudicial à cidade, meio ambiente e as pessoas em geral e as mais vulneráveis em especial. E pior com aparência de estar fazendo um governo melhor.
 
-Já que o espaço e exíguo para esgotar todo o pensamento vou me dirigir para o término respondendo a questão: como a classe trabalhadora pode reagir a esse avanço nefasto desta classe dominante? Acreditamos muito na questão da percepção da justiça ambiental que nos remete que as maiores vítimas do desequilíbrio ambiental sem dúvida serão os mais empobrecidos, como diziam, pobre é uma condição imposta e não algo congênito e quem a impõe e justamente a classe dominante e seus asseclas e seu modelo econômico social.
+Já que o espaço e exíguo para esgotar todo o pensamento vou me dirigir para o término respondendo a questão: como a classe trabalhadora pode reagir a esse avanço nefasto desta classe dominante? Acreditamos muito na questão da percepção da justiça ambiental que nos remete que as maiores vítimas do desequilíbrio ambiental sem dúvidas serão os mais empobrecidos, como diziam, pobre é uma condição imposta e não algo congênito e quem a impõe e justamente a classe dominante e seus asseclas e seu modelo econômico social.
 
 É a classe trabalhadora que mais sofre o impacto pois terá de ocupar áreas ambientalmente frágil (encosta, à margem de rios, etc.), pois um sistema excludente provocado pela especulação imobiliária que gentrifica a cidade e o empurra para essas áreas. São os bairros populares ou ambientalmente frágil que vão receber grandes obras, empreendimentos poluidores. É ela que vai ser obrigada a trabalhar em plena pandemia causada por um desequilíbrio ambiental e sem condições de cumprir uma quarentena pois lhe falta qualquer amparo ou assistência social emergencial governamental. É ela que vive sem água potável, tratamento de esgoto um ambiente equilibrado.
 
