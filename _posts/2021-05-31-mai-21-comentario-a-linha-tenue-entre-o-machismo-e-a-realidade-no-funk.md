@@ -1,15 +1,15 @@
 ---
-date: 2021-05-31 23:26:32 +0000
+date: 2021-05-31T23:26:32.000+00:00
 layout: post
 title: 'Comentário: a linha tênue entre o machismo e a realidade no funk'
-subtitle: Por Vanessa Ferrari
-description: Por Vanessa Ferrari
+subtitle: Por Vanessa Ferrari e Luiza Souza
+description: Por Vanessa Ferrari e Luiza Souza
 image: https://i.imgur.com/so6fz0M.jpg
 optimized_image: https://i.imgur.com/so6fz0M.jpg
 category:
 - Arte e Cultura
 tags: 
-author: vanessa
+author: ''
 
 ---
 Muitas críticas feministas acompanham o funk por suas músicas explícitas e obscenas. Mas como qualquer outro estilo musical, o funk também traz sua realidade, que nesse caso é dentro da favela. Espaço onde poucos de fora enxergam. Espaço onde tudo é mais cru e, muitas vezes, violento.
@@ -25,3 +25,9 @@ Mas como falar sobre feminismo quando o funk é um movimento majoritariamente ma
 Precisamos tentar entender, já que a música é criada pela realidade de cada indivíduo. Como um homem da periferia vai cantar sobre flores, quando sua realidade é cruel?
 
 Visando todas as expressões nas músicas, o funk é mais um que mostra seu cotidiano com visões diversas e batidas envolventes. Dando, muitas vezes, a esperança de ter status social.
+
+![](https://i.imgur.com/cDNp9tj.jpg)
+
+**Vanessa Ferrari**. Vanessa entrou no cursinho em 2014. Atualmente, cursa Psicologia na Fig-Unimesp, sendo voluntária no Cursinho A-Sol com ajuda psicológica aos alunos e funcionários, e é uma das roteiristas da coluna de “Cultura e Arte” da revista.
+
+**Luiza Souza**. De Jundiaí, estudante e aluna do cursinho comunitário A-Sol.
