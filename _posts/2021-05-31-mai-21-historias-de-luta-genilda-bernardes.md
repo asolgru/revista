@@ -32,7 +32,7 @@ Genilda faleceu em Maio de 2021.
 
 A cidade inteira sofreu a perda desse cometa que veio iluminar nossas vidas, nas palavras de seu companheiro de luta e esposo Rafael Paredes. 
 
-Antes de falecer, Genilda Bernardes incansável, atuou na linha de frente junto a outros vereadores de esquerda na câmara em defesa do emprego de mais de 4.700 famílias da Progresso e Desenvolvimento (Proguaru), conseguindo uma liminar judicial crucial para o respiro da organização da luta que estava por vim.
+Antes de falecer, Genilda Bernardes incansável, atuou na linha de frente junto a outros vereadores de esquerda na câmara em defesa do emprego de mais de 4.700 famílias da Progresso e Desenvolvimento (Proguaru), conseguindo uma liminar judicial crucial para o respiro da organização da luta que estava por vir.
 
 Inspira movimentos sociais como o A-Sol e tanto outros aos arredores da cidade nas trincheiras dessa luta.
 
