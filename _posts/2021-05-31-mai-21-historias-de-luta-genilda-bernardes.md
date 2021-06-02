@@ -28,7 +28,7 @@ No segundo mandato da gestão Almeida, outra revolução através da coordenaç�
 
 Se reelege em 2016 e continua cumprindo com seu compromisso para com o povo fazendo oposições cruciais aos levantes neoliberais na Câmara de Vereadores da cidade.
 
-Genilda faleceu em Maio de 2020.
+Genilda faleceu em Maio de 2021.
 
 A cidade inteira sofreu a perda desse cometa que veio iluminar nossas vidas, nas palavras de seu companheiro de luta e esposo Rafael Paredes. 
 
