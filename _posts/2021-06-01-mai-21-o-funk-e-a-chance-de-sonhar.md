@@ -1,10 +1,10 @@
 ---
-date: 2021-06-01 00:01:00 +0000
+date: 2021-06-01T00:01:00.000+00:00
 layout: post
 title: O funk e a chance de sonhar
 subtitle: Por Rebeca Assis
 description: Por Rebeca Assis
-image: https://i.imgur.com/BI7pwAq.jpg
+image: ''
 optimized_image: https://i.imgur.com/BI7pwAq.jpg
 category:
 - Educação
@@ -12,6 +12,8 @@ tags:
 author: rebeca
 
 ---
+![Featured image](https://i.imgur.com/BI7pwAq.jpg)
+
 “_não há saber mais ou saber menos: há saberes diferentes”_
 
 Início esse escrito com essa frase de Paulo Freire que afirma que não existe hierarquização de conhecimentos, ou pelo menos, não deveria existir. Mas sabemos que desde que o Brasil é Brasil há uma perseguição e repressão à alguns conhecimentos populares, mais especificamente aos conhecimentos que não são eurocêntricos, como por exemplo, os que surgiram das matrizes africanas e indígenas, ou ainda, os que surgem das camadas pobres da sociedade discutiremos aqui o funk: uma expressão que vem da comunidade.
