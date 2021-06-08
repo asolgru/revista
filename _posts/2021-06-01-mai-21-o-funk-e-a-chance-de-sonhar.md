@@ -4,7 +4,7 @@ layout: post
 title: O funk e a chance de sonhar
 subtitle: Por Rebeca Assis
 description: Por Rebeca Assis
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemCDSuvT8dzpkUiWLu86kwpbbwlDU7QjtQQ&usqp=CAU
+image: https://i.imgur.com/BI7pwAq.jpg
 optimized_image: https://i.imgur.com/BI7pwAq.jpg
 category:
 - Educação
