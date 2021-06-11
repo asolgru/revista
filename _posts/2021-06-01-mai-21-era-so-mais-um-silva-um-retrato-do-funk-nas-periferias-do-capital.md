@@ -23,8 +23,8 @@ Partindo disso, quando se trata do funk carioca, a linha histórica do gênero n
 
 Diversos espaços abandonados ou até mesmo alugados e emprestados, serviam aos primeiros bailes funks no Rio de Janeiro, isto quando o poder público local não inventava de cassar alvarás através das narrativas criminalizadoras, ou quando linhas de ônibus, por exemplo, eram proibidas até certo horário de passar pelos endereços próximos aos bailes. Outra situação eram as constantes brigas entre grupos rivais que ganhavam notoriedade na mídia pautadas em racismo e sensacionalismo.
 
-Se tratando do funk carioca, podemos constatar que ao longo das décadas sofreu inúmeras influências, o que levou a criação de subgêneros como _proibidão_, _ostentação_, _consciente_ e outros.   
-  
+Se tratando do funk carioca, podemos constatar que ao longo das décadas sofreu inúmeras influências, o que levou a criação de subgêneros como _proibidão_, _ostentação_, _consciente_ e outros.
+
 Diferente do que nos leva crer o senso comum, tem gosto e expressão para tudo dentro do funk, embora o mercado se aproprie de padrões específicos para comercializar e lucrar com o gênero.
 
 Analisando com mais atenção o final dos anos 1980 e o início dos anos 1990, percebemos que é quando diversas letras são escritas e cantadas pedindo a paz na periferia não só contra conflitos internos, mas principalmente contra a violência sistêmica policial . Essas letras ficariam conhecidas e eternizadas em todo o Brasil nas vozes de Cidinho e Doca com o Rap das Armas, ou o Rap da Felicidade, ou de MC Galo com o Rap da Rocinha e outras tantas inspirações que atenderiam à criatividade e os desabafos da classe que sempre sofreu maior impacto na escala do desenvolvimento desigual.
@@ -53,8 +53,8 @@ Hoje, com sua família, ele não irá dormir_
 
 **Pela raíz do problema**
 
-A omissão e o racismo do Estado soma-se a indiferença da sociedade civil em relação ao genocídio do povo negro, e se esconde atrás de narrativas de punitivistas em relação aos crimes e as consequências do projeto político de extermínio que é decidido em jantares luxuosos com a participação a fiel participação da classe burguesa e com o retorno midiático sempre de prontidão para isolar o problema de toda a estrutura que atravessa o dia a dia do Silva no Brasil.
+A omissão e o racismo do Estado soma-se a indiferença da sociedade civil em relação ao genocídio do povo negro, e se esconde atrás de narrativas de punitivistas em relação aos crimes e as consequências do projeto político de extermínio que é decidido em jantares luxuosos com a fiel participação da classe burguesa e com o fiel retorno midiático sempre de prontidão para isolar o problema de toda a estrutura que atravessa o dia a dia do Silva no Brasil.
 
-Em contraste, na conjuntura o número de movimentos e coletivos organizados aumentam aderindo de forma orgânica e não somente mercadológica, a ideia de que a questão racial é parte da estrutura difundida pela burguesia no capital. Isso sugere que há uma centralização e radicalização do pensamento em relação a superação do racismo no Brasil por vias antirracistas, mas que ainda temos muito, muito trabalho pela frente. 
+Em contraste, na conjuntura o número de movimentos e coletivos organizados aumentam aderindo de forma orgânica e não somente mercadológica, a ideia de que a questão racial é parte da estrutura difundida pela burguesia no capital. Isso sugere que há uma centralização e radicalização do pensamento em relação a superação do racismo no Brasil por vias antirracistas, mas que ainda temos muito, muito trabalho pela frente.
 
 Nos recentes atos em São Paulo e Rio de Janeiro, as placas eram de palavras de ordem a nível nacional com o viés de uma ação coletiva e um horizonte revolucionário. Para além dos gritos de guerra presentes em todos os atos, o clima era de necessidade de organização combativa, revolucionária e o desejo de punição àqueles que feriram o povo.
