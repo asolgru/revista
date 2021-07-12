@@ -24,3 +24,5 @@ Em Resenha, apresentamos uma [conversa sobre feminismos plurais](http://cursinho
 Discutimos a obra Watchmen na coluna [Cinema](), contextualizando o contexto e a filosofia trabalhada no filme e na HQ.
 
 Na coluna [Literatura](http://cursinhoasol.com.br/revista/camoes-do-amor-ao-desconcerto-jun-21/), a Prof. Dr. Deborah Garson Cabral se aprofunda na obra de Camões, clássicos nos diversos países que fazem uso da língua portuguesa.
+
+Em [Ensaios](), discutimos o que a ideologia lava-jatista esconde.
