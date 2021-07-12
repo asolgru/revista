@@ -27,4 +27,4 @@ Na coluna [Literatura](http://cursinhoasol.com.br/revista/camoes-do-amor-ao-desc
 
 Em [Ensaios](), discutimos o que a ideologia lava-jatista esconde.
 
-Na nova coluna Crônicas
+Na nova coluna [Crônicas](http://cursinhoasol.com.br/revista/cronica-o-angulo-da-bala-jun-21/), narramos uma história velada, envolvendo a violência policial nas periferias brasileiras.
