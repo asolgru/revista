@@ -1,5 +1,5 @@
 ---
-date: 2021-07-11T16:00:00.000+00:00
+date: 2021-07-11 09:00:00 +0000
 layout: post
 title: 'Crônica: O ângulo da bala'
 subtitle: Por Priscila Santos
