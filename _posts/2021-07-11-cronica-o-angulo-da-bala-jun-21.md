@@ -9,7 +9,7 @@ optimized_image: https://i.imgur.com/lPavTgH.png
 category:
 - crônica
 tags: 
-author: a
+author: prisantos
 
 ---
 Não sei bem como passei a existir, também não conheço nada sobre a geração dos que vieram comigo, acredito que o fato de eu ter pensamentos nesse momento é uma coisa anormal, mas talvez seja necessário pra que você veja uma história real de um outro ângulo, o meu ângulo.
