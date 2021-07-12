@@ -4,8 +4,8 @@ layout: post
 title: Camões, do amor ao desconcerto
 subtitle: Por Deborah Garson Cabral
 description: Por Deborah Garson Cabral
-image: https://i.imgur.com/iB7s66n.jpg
-optimized_image: https://i.imgur.com/iB7s66n.jpg
+image: https://i.imgur.com/VmrPU4E.png
+optimized_image: https://i.imgur.com/VmrPU4E.png
 category:
 - Literatura
 tags: 
