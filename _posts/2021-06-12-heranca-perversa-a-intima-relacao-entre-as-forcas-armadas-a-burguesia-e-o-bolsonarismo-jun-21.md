@@ -5,8 +5,8 @@ title: 'Herança Perversa: a íntima relação entre as forças armadas, a burgu
   o bolsonarismo'
 subtitle: Por Yanka Xavier
 description: Por Yanka Xavier
-image: https://i.imgur.com/QDkfkwR.png
-optimized_image: https://i.imgur.com/QDkfkwR.png
+image: https://i.imgur.com/LGpbuhG.jpg
+optimized_image: https://i.imgur.com/LGpbuhG.jpg
 category: Editorial
 tags: 
 author: yanka
