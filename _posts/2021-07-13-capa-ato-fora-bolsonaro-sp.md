@@ -1,0 +1,26 @@
+---
+date: 2021-07-13 02:22:40 +0000
+layout: post
+title: 'Capa: Ato Fora Bolsonaro - SP'
+subtitle: ''
+description: ''
+image: https://i.imgur.com/QDkfkwR.png
+optimized_image: https://i.imgur.com/QDkfkwR.png
+category: []
+tags: 
+author: ''
+
+---
+Saiu a edição de  junho de 2021 da Revista A-Sol. Conheça mais sobre o cenário político, educacional e cultural de Guarulhos. A Revista A-Sol é construída por gente que mora e que constrói a cidade.
+
+No [Editorial](http://cursinhoasol.com.br/revista/heranca-perversa-a-intima-relacao-entre-as-forcas-armadas-a-burguesia-e-o-bolsonarismo-jun-21/), aprofundamos o debate da conjuntura brasileira, denunciando como Bolsonaro, as forças armadas e a classe dominante representa o mesmo projeto e são indissociáveis.
+
+Na coluna [Entrevista](http://cursinhoasol.com.br/revista/nos-a-pandemia-e-a-metropole-jun-21/), conversamos com o Prof. Dr. Janes Jorge sobre como os ricos utilizam diferentes mecanismos para se apropriar do território, e esse processo impacta os mais pobres na pandemia.
+
+Em [Arte & Cultura](), explicamos o funcionamento do Slam, e um pouco de sua história.
+
+Em [Resenha](), apresentamos o livro Lugar de Fala, e os conceitos trabalhados pela Djamila Ribeiro neste livro.
+
+Discutimos a obra Watchmen na coluna [Cinema](), contextualizando o contexto e a filosofia trabalhada no filme e na HQ.
+
+Na coluna [Literatura](http://cursinhoasol.com.br/revista/camoes-do-amor-ao-desconcerto-jun-21/), a Prof. Dr. Deborah Garson Cabral se aprofunda na obra de Camões, clássicos nos diversos países que fazem uso da língua portuguesa.
