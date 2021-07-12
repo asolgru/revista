@@ -1,7 +1,7 @@
 ---
-date: 2021-07-12 02:21:40 +0000
+date: 2021-07-12T02:21:40.000+00:00
 layout: post
-title: 'Herança Perversa: a íntima relação entre as Forças Armadas, a burguesia e
+title: 'Herança perversa: a íntima relação entre as Forças Armadas, a burguesia e
   o bolsonarismo'
 subtitle: Por Yanka Xavier
 description: Por Yanka Xavier
