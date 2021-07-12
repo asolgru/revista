@@ -1,5 +1,5 @@
 ---
-date: 2021-07-10T23:08:00.000+00:00
+date: 2021-07-11 13:08:00 +0000
 layout: post
 title: O que a ideologia lava-jatista esconde
 subtitle: Por José Ricardo Satilio da Silva
