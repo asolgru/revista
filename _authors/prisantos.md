@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: http://cursinhoasol.com.br/revista/assets/img/uploads/prisantos.jpeg
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/prisantos.jpg
 name: prisantos
 display_name: Priscila Santos
 position: Chief Editor
