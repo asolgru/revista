@@ -2,8 +2,7 @@
 date: 2021-07-11T20:57:00.000+00:00
 layout: post
 title: 'Watchmen: a natureza humana sem anestesia'
-subtitle: Por Luka Oliveira, ThiagoPor Luka Oliveira e Thiago Alves Alves e Caroline
-  Locatelli
+subtitle: Por Luka Oliveira e Thiago Alves
 description: Por Luka Oliveira e Thiago Alves
 image: https://i.imgur.com/Tw9T3z8.jpg
 optimized_image: https://i.imgur.com/Tw9T3z8.jpg
