@@ -6,7 +6,8 @@ subtitle: Por Deborah Garson Cabral
 description: Por Deborah Garson Cabral
 image: https://i.imgur.com/iB7s66n.jpg
 optimized_image: https://i.imgur.com/iB7s66n.jpg
-category: []
+category:
+- Literatura
 tags: 
 author: deborah
 
