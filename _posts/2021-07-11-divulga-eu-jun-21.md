@@ -1,5 +1,5 @@
 ---
-date: 2021-07-11 16:00:00 +0000
+date: 2021-07-10 16:00:00 +0000
 layout: post
 title: Divulga eu!
 subtitle: Por Vanessa Ferrari e Luíza Souza
