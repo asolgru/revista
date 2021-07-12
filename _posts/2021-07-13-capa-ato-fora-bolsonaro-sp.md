@@ -19,7 +19,7 @@ Na coluna [Entrevista](http://cursinhoasol.com.br/revista/nos-a-pandemia-e-a-met
 
 Em [Arte & Cultura](), explicamos o funcionamento do Slam, e um pouco de sua história.
 
-Em [Resenha](), apresentamos o livro Lugar de Fala, e os conceitos trabalhados pela Djamila Ribeiro neste livro.
+Em Resenha, apresentamos uma [conversa sobre feminismos plurais](http://cursinhoasol.com.br/revista/lugar-fala-e-pluralidade-de-ideias-jun-21/), e a história de uma [infância no período do Apartheid](http://cursinhoasol.com.br/revista/a-historia-de-trevor-noah-vivendo-no-apartheid-jun-21/).
 
 Discutimos a obra Watchmen na coluna [Cinema](), contextualizando o contexto e a filosofia trabalhada no filme e na HQ.
 
