@@ -1,9 +1,9 @@
 ---
-date: 2021-07-11 09:00:00 +0000
+date: 2021-07-11T09:00:00.000+00:00
 layout: post
 title: 'Crônica: O ângulo da bala'
 subtitle: Por Priscila Santos
-description: Por Priscila Soares
+description: Por Priscila Santos
 image: https://i.imgur.com/lPavTgH.png
 optimized_image: https://i.imgur.com/lPavTgH.png
 category:
