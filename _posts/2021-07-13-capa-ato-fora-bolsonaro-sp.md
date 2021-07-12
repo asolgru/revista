@@ -13,11 +13,11 @@ author: ''
 ---
 Saiu a edição de  junho de 2021 da Revista A-Sol. Conheça mais sobre o cenário político, educacional e cultural de Guarulhos. A Revista A-Sol é construída por gente que mora e que constrói a cidade.
 
-No [Editorial](http://cursinhoasol.com.br/revista/heranca-perversa-a-intima-relacao-entre-as-forcas-armadas-a-burguesia-e-o-bolsonarismo-jun-21/), aprofundamos o debate da conjuntura brasileira, denunciando como Bolsonaro, as forças armadas e a classe dominante representa o mesmo projeto e são indissociáveis.
+No [Editorial](http://cursinhoasol.com.br/revista/heranca-perversa-a-intima-relacao-entre-as-forcas-armadas-a-burguesia-e-o-bolsonarismo-jun-21/), aprofundamos o debate da conjuntura brasileira, denunciando como Bolsonaro, as Forças Armadas e a classe dominante representa o mesmo projeto e são indissociáveis.
 
 Na coluna [Entrevista](http://cursinhoasol.com.br/revista/nos-a-pandemia-e-a-metropole-jun-21/), conversamos com o Prof. Dr. Janes Jorge sobre como os ricos utilizam diferentes mecanismos para se apropriar do território, e esse processo impacta os mais pobres na pandemia.
 
-Em [Arte & Cultura](), explicamos o funcionamento do Slam, e um pouco de sua história.
+Em [Arte & Cultura](), explicamos o funcionamento do Slam, e um pouco de sua história. E ainda no [Divulga Eu!](http://cursinhoasol.com.br/revista/divulga-eu-jun-21/) saiba mais sobre os artistas que fazem a arte de Guarulhos.
 
 Em Resenha, apresentamos uma [conversa sobre feminismos plurais](http://cursinhoasol.com.br/revista/lugar-fala-e-pluralidade-de-ideias-jun-21/), e a história de uma [infância no período do Apartheid](http://cursinhoasol.com.br/revista/a-historia-de-trevor-noah-vivendo-no-apartheid-jun-21/).
 
