@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: http://cursinhoasol.com.br/revista/assets/img/uploads/isabelle.jpeg
+photo: http://cursinhoasol.com.br/revista/assets/img/uploads/isa.jpeg
 name: isabelle
 display_name: Isabelle Matoso
 position: Chief Editor
