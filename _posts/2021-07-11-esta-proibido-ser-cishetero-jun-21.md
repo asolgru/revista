@@ -4,8 +4,8 @@ layout: post
 title: Está proibido ser cishetero
 subtitle: Por Isabelle Matoso
 description: Por Isabelle Matoso
-image: https://i.imgur.com/Tw9T3z8.jpg
-optimized_image: https://i.imgur.com/Tw9T3z8.jpg
+image: https://i.imgur.com/0BLJvEj.png
+optimized_image: https://i.imgur.com/0BLJvEj.png
 category:
 - Opinião
 tags: 
