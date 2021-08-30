@@ -2,7 +2,7 @@
 layout: author
 photo: http://cursinhoasol.com.br/revista/assets/img/uploads/laura.jpeg
 name: laura
-display_name: Laura Sobrenome
+display_name: Laura Finesso Chalegre
 position: Chief Editor
-bio: Definir a bio.
+bio: Artista plástica e vestibulanda, produz conteúdo no Instagram literário @livrosecappuccinos
 ---
