@@ -2,7 +2,7 @@
 date: 2021-08-30T17:00:00.000+00:00
 layout: post
 title: A Interseccionalidade em Mulheres, Raça e Classe de Angela Davis
-subtitle: Por Laura
+subtitle: Por Laura Finesso Chalegre
 description: Por Laura Finesso Chalegre
 image: https://i.imgur.com/J1H11Pv.jpeg
 optimized_image: https://i.imgur.com/J1H11Pv.jpeg
