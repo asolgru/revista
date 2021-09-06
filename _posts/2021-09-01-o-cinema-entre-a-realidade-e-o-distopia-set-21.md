@@ -1,5 +1,5 @@
 ---
-date: 2021-08-31 20:57:00 +0000
+date: 2021-08-31T20:57:00.000+00:00
 layout: post
 title: O cinema entre a Realidade e o Distopia
 subtitle: Por Luka Oliveira e Thiago Alves
@@ -12,7 +12,7 @@ tags:
 author: a
 
 ---
-Não é de hoje que as distopias têm alcançado bastante fama entre o público jovem-adulto. Entre os anos 1980 – 90 já era bem comum usar meios de entretenimento para produzir uma “crítica”. Basicamente a ficção sempre foi um meio interessante para demonstrar a realidade de maneira crítica. Mas afinal, o que é uma distopia? 
+Não é de hoje que as distopias têm alcançado bastante fama entre o público jovem-adulto. Entre os anos 1980 – 90 já era bem comum usar meios de entretenimento para produzir uma “crítica”. Basicamente a ficção sempre foi um meio interessante para demonstrar a realidade de maneira crítica. Mas afinal, o que é uma distopia?
 
 Podemos entender Distopia, inicialmente como um conceito de crítica social e Política. Apesar de bem abrangente e diverso, a distopia sempre nos traz uma situação de extrema opressão e angústia. A distopia é um alerta de conscientização para aqueles que ainda estão anestesiados com a realidade e não enxergam o absurdo diante de si.
 
@@ -166,8 +166,10 @@ Quando Branson diz isso, ele está se referindo aos bem nascidos, as pessoas com
 
 Na viagem de Jeff Bezos não tivemos uma tripulação com funcionários da Blue Origin ou da Amazon, tivemos o filho de um rico empresário que pode pagar para enviar o seu filho, de bons genes. Mas será que um dia chegará a vez do mecânico das aeronaves? Da pessoa que cuida da limpeza? O Acessível não é de acesso para todos.
 
-![](https://i.imgur.com/SWluvB2.jpg)
+![](https://i.imgur.com/kirsIqt.png)
 
 _Thiago Alves_, estuda programação e faz parte do A-Sol desde março de 2020.
 
 _Luka Oliveira_, é estudante de Filosofia, pesquisador de Filosofia e Cinema pelo GECEF. Professor voluntário no Cursinho Comunitário A-Sol
+
+_Caroline Locatelli_, apaixonada por livros e cinema, amante do ínfimo ao infinito.
