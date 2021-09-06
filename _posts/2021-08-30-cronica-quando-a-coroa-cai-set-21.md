@@ -4,8 +4,8 @@ layout: post
 title: 'Crônica: Quando a coroa cai'
 subtitle: Por Priscila Santos
 description: Por Priscila Santos
-image: https://i.imgur.com/9JY8bPI.jpeg
-optimized_image: https://i.imgur.com/9JY8bPI.jpeg
+image: https://i.imgur.com/NxP31dw.jpeg
+optimized_image: https://i.imgur.com/NxP31dw.jpeg
 category:
 - crônica
 tags: 
