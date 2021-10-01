@@ -1,7 +1,7 @@
 ---
 date: 2021-08-31T20:57:00.000+00:00
 layout: post
-title: O cinema entre a Realidade e o Distopia
+title: O Cinema entre a Realidade e a Distopia
 subtitle: Por Luka Oliveira, Thiago Alves e Caroline Locatelli
 description: Por Luka Oliveira, Thiago Alves e Caroline Locatelli
 image: https://i.imgur.com/yzT4Bvn.png
