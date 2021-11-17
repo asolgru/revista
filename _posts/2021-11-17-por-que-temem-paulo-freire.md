@@ -1,5 +1,5 @@
 ---
-date: 2021-06-01T00:01:00.000+00:00
+date: 2021-11-17T00:01:00.000+00:00
 layout: post
 title: Por que temem Paulo Freire?
 subtitle: Por Rebeca Assis
