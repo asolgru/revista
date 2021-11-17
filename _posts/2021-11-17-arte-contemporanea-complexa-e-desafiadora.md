@@ -1,7 +1,7 @@
 ---
 date: 2021-11-17T20:57:00.000+00:00
 layout: post
-title: 'Arte contemporânea: complexa e desafiadora'
+title: 1ª Guerra Mundial na Imagem do Cinema
 subtitle: Por Luka Oliveira e Thiago Alves
 description: Por Luka Oliveira e Thiago Alves
 image: https://i.imgur.com/Tw9T3z8.jpg
