@@ -1,5 +1,5 @@
 ---
-date: 2021-08-30T09:00:00.000+00:00
+date: 2021-11-17T09:00:00.000+00:00
 layout: post
 title: Notas de uma guerra de pouca importância
 subtitle: Por Priscila Santos e Rodrigo Amorim
