@@ -9,7 +9,7 @@ optimized_image: https://i.imgur.com/Tw9T3z8.jpg
 category:
 - cinema
 tags: 
-author: a
+author: vanessa
 
 ---
 O nosso resenhista Thiago traz uma superindicação que abalou todas as estruturas do Gênero Super-Heróis: Watchmen.
