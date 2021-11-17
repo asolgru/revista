@@ -53,5 +53,3 @@ Links úteis:
 [https://www.infoescola.com/artes/arte-contemporanea/](https://www.infoescola.com/artes/arte-contemporanea/ "https://www.infoescola.com/artes/arte-contemporanea/")
 
 [https://www.youtube.com/watch?v=ApMj76kCVRU&t=280s](https://www.youtube.com/watch?v=ApMj76kCVRU&t=280s "https://www.youtube.com/watch?v=ApMj76kCVRU&t=280s")
-
-**Vanessa Ferrari**. Vanessa entrou no cursinho em 2014. Atualmente, cursa Psicologia na Fig-Unimesp, sendo voluntária no Cursinho A-Sol com ajuda psicológica aos alunos e funcionários, e é uma das roteiristas da coluna de “Cultura e Arte” da revista.
