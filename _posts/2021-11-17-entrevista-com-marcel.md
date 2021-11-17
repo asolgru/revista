@@ -1,5 +1,5 @@
 ---
-date: 2021-08-30T23:57:00.000+00:00
+date: 2021-11-17T23:57:00.000+00:00
 layout: post
 title: Entrevista com Marcel
 subtitle: Por Walter Bolitto
