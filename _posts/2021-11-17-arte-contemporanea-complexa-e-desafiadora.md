@@ -1,5 +1,5 @@
 ---
-date: 2021-07-11T20:57:00.000+00:00
+date: 2021-11-17T20:57:00.000+00:00
 layout: post
 title: 'Arte contemporânea: complexa e desafiadora'
 subtitle: Por Luka Oliveira e Thiago Alves
@@ -9,7 +9,7 @@ optimized_image: https://i.imgur.com/Tw9T3z8.jpg
 category:
 - cinema
 tags: 
-author: vanessa
+author: a
 
 ---
 O nosso resenhista Thiago traz uma superindicação que abalou todas as estruturas do Gênero Super-Heróis: Watchmen.
