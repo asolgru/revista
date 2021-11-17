@@ -1,5 +1,5 @@
 ---
-date: 2021-07-11T20:57:00.000+00:00
+date: 2021-11-17T20:57:00.000+00:00
 layout: post
 title: A 1º Guerra Mundial na imagem do cinema
 subtitle: Por Luka Oliveira e Thiago Alves
