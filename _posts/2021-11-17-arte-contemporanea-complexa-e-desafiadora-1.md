@@ -1,15 +1,15 @@
 ---
-date: 2021-07-11T23:26:32.000+00:00
+date: 2021-11-17T23:26:32.000+00:00
 layout: post
 title: 'Arte contemporânea: complexa e desafiadora'
-subtitle: 'Por Vanessa Ferrari '
-description: Por Vanessa Ferrari e Luiza Souza
+subtitle: Por Vanessa Ferrari 
+description: Por Vanessa Ferrari
 image: https://i.imgur.com/wWM3aE7.jpg
 optimized_image: https://i.imgur.com/wWM3aE7.jpg
 category:
 - Arte e Cultura
 tags: 
-author: ''
+author: vanessa
 
 ---
 
