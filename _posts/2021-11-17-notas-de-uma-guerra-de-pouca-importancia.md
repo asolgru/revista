@@ -2,14 +2,14 @@
 date: 2021-11-17T09:00:00.000+00:00
 layout: post
 title: Notas de uma guerra de pouca importância
-subtitle: Por Priscila Santos e Rodrigo Amorim
-description: Por Priscila Santos e Rodrigo Amorim
+subtitle: Por Rodrigo Amorim
+description: Por Rodrigo Amorim
 image: https://i.imgur.com/ViQDgqc.jpg
 optimized_image: https://i.imgur.com/ViQDgqc.jpg
 category:
 - crônica
 tags: 
-author: prisantos
+author: rodrigo
 
 ---
 Era noite quando Marcelo trancou a entrada da lanchonete e desceu por entre as ruas e becos mal iluminados em direção a sua casa. Morava ali desde o nascimento e parecia conhecer a todos do bairro. Nas suas lembranças de infância, os edifícios que faziam parte daquele cenário não eram tão grandes. As maiores casas, naquele período, não deviam ter mais do que 2 andares. Mas parecia, agora, que o morro inteiro havia sido tomado de concreto, tijolos e madeira. Já não existia mais muito espaço para se ocupar e erigir novas casas. Parecia que a solução acordada no inconsciente coletivo de todos que por sorte ou necessidade haviam terminado ali era construir “pra cima”. Antigamente era possível olhar o centro da cidade lá de cima do morro, na porta de sua casa. Mas agora tudo o que se via era um labirinto, laranja cor de tijolo, que se estendia, como se fosse infinito, becos abaixo. Em uma das vielas, viu uma mulher idosa encostada no portão de ferro de sua casa. Ela pareceu demorar a notá-lo, como se estivesse em transe. Só percebeu sua presença quando ele a chamou.
@@ -87,5 +87,3 @@ In memoriam Kathlen Romeu
 ![](https://i.imgur.com/hIetXWj.jpg)
 
 Kathlen Romeu, 25 anos, morreu depois de uma suposta troca de tiros entre a polícia militar do Rio de Janeiro e traficantes da comunidade do Barro Vermelho, em Lins de Vasconcelos, na zona norte da cidade maravilhosa. **Kathlen estava grávida de 14 semanas** do primeiro filho.
-
-**Texto escrito por Priscila Santos e Rodrigo Amorim**
