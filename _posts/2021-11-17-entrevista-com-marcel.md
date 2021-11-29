@@ -1,7 +1,8 @@
 ---
 date: 2021-11-17T23:57:00.000+00:00
 layout: post
-title: 'Guarulhos: Iniciativas que ocupam o vácuo de investimento no esporte na cidade'
+title: Entrevista| Iniciativas que ocupam o vácuo de investimento no esporte na cidade
+  de Guarulhos
 subtitle: Por Walter Bolitto
 description: Por Walter Bolitto
 image: https://i.imgur.com/xFqFSGs.png
