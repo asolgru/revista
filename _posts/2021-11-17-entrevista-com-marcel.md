@@ -19,7 +19,9 @@ Independente disso, o futebol continua a habitar o imaginário da população, e
 
 Na cidade de Guarulhos, notamos um governo que comemora a vitória de atletas em grandes eventos, ao mesmo tempo que na prática não dispõe atenção nos espaços esportivos e públicos, já que pouco investe nos espaços culturais e lazer, principalmente nas periferias, e dessa forma, iniciativas desenvolvidas pela militância da cidade buscam ocupar esse vácuo de planejamento e desenvolvimento na área do esporte. 
 
-Marcel Agea, professor da rede de ensino municipal e estadual de São Paulo, colabora com a transformação da realidade da juventude de Guarulhos através da educação e do esporte, sendo fundador do Cursinho pré-vestibular Dona Fernanda e fundador do Havana Futebol Clube. Entrevistamos Marcel para falar um pouco sobre esse projeto tão importante na cidade.
+Marcel Agea, professor da rede de ensino municipal e estadual de São Paulo, colabora com a transformação da realidade da juventude de Guarulhos através da educação e do esporte, organiza com outros militantes da cidade o Cursinho pré-vestibular Dona Fernanda e o Havana Futebol Clube. 
+
+Entrevistamos Marcel para falar um pouco sobre esse projeto tão importante na cidade e como ele se insere no cenário político.
 
 ![](https://i.imgur.com/dJR4FkJ.png)
 
@@ -71,7 +73,7 @@ Do futebol brasileiro não tenho muita esperança nesse momento que possa influe
 
 A classe trabalhadora sim deve ter protagonismo nessa mudança, haja visto a quantidade de direitos que foram retirados do trabalhador nesses últimos 5 anos, principalmente desde a saída (UM GOLPE) de Dilma Rousselff. Aqui em Guarulhos temos um exemplo do papel e da força do trabalhador através da Proguaru, onde a organização e atuação dos funcionários através das mobilizações e manifestações fizeram essa luta ser ecoada aos 4 cantos do Brasil, se tornando hoje um movimento maior que a própria história de cada trabalhador desta empresa, mas um movimento de todo trabalhador brasileiro.
 
-Queria agradecer ao E-sol pela oportunidade de falar de futebol, política e sociedade.
+Queria agradecer ao A-Sol pela oportunidade de falar de futebol, política e sociedade.
 
 Hasta lá victória siempre! Havana!
 
