@@ -13,13 +13,15 @@ tags:
 author: walterbolitto
 
 ---
-Anos atrás, com os bons resultados nas Copas do Mundo, o Brasil era conhecido como a terra do futebol, mas nem sempre foi assim, o jogo que sempre foi símbolo da Inglaterra, veio pro Brasil para ser praticado pelos filhos dos ricos, e aos poucos foi popularizado nas ruas, quintais e quadras de todos os países pelos filhos da classe trabalhadora, transformando a percepção sobre o esporte e possibilitando essa paixão nacional. As polêmicas relacionadas à CBF, os empresários lutando contra direitos sociais usando o uniforme da seleção e o desempenho recente da seleção diminuiu o brilho no olhar do torcedor brasileiro.
+Anos atrás, com os bons resultados nas Copas do Mundo, o Brasil era conhecido como a terra do futebol, mas nem sempre foi assim, o jogo que foi símbolo da Inglaterra, veio pro Brasil para ser praticado pelos filhos dos ricos, e aos poucos foi popularizado nas ruas, quintais e quadras de todos os países pelos filhos da classe trabalhadora, transformando a percepção sobre o esporte e possibilitando essa paixão nacional.
+
+ As polêmicas relacionadas à CBF, os empresários lutando contra direitos sociais usando o uniforme da seleção e o desempenho recente do Brasil na política em relação a desmontes de setores de esporte, lazer e cultura, diminuiu o brilho no olhar do torcedor brasileiro.
 
 Independente disso, o futebol continua a habitar o imaginário da população, e passeando à deriva pela cidade, podemos ver bolas e traves improvisadas nos centros urbanos e nas periferias, parte disso decorre do amor pelo esporte mas também é de responsabilidade pública manter esses ainda poucos espaços culturais disponíveis para que ocupem também os filhos e as filhas da classe trabalhadora.
 
-Na cidade de Guarulhos, notamos um governo que comemora a vitória de atletas em grandes eventos, ao mesmo tempo que na prática não dispõe atenção nos espaços esportivos e públicos, já que pouco investe nos espaços culturais e lazer, principalmente nas periferias, e dessa forma, iniciativas desenvolvidas pela militância da cidade buscam ocupar esse vácuo de planejamento e desenvolvimento na área do esporte. 
+Na cidade de Guarulhos, notamos um governo que comemora a vitória de atletas em grandes eventos, ao mesmo tempo que na prática não dispõe atenção nos espaços esportivos e públicos, já que pouco investe nos espaços culturais e lazer, principalmente nas periferias, e dessa forma, iniciativas desenvolvidas pela militância da cidade buscam ocupar esse vácuo de planejamento e desenvolvimento na área do esporte.
 
-Marcel Agea, professor da rede de ensino municipal e estadual de São Paulo, colabora com a transformação da realidade da juventude de Guarulhos através da educação e do esporte, organiza com outros militantes da cidade o Cursinho pré-vestibular Dona Fernanda e o Havana Futebol Clube. 
+Marcel Agea, professor da rede de ensino municipal e estadual de São Paulo, colabora com a transformação da realidade da juventude de Guarulhos através da educação e do esporte, organiza com outros militantes da cidade o Cursinho pré-vestibular Dona Fernanda e o Havana Futebol Clube.
 
 Entrevistamos Marcel para falar um pouco sobre esse projeto tão importante na cidade e como ele se insere no cenário político.
 
