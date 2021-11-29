@@ -1,7 +1,7 @@
 ---
 date: 2021-11-17T23:57:00.000+00:00
 layout: post
-title: Entrevista com Marcel
+title: 'Guarulhos: Iniciativas que ocupam o vácuo de investimento no esporte na cidade'
 subtitle: Por Walter Bolitto
 description: Por Walter Bolitto
 image: https://i.imgur.com/xFqFSGs.png
@@ -12,14 +12,15 @@ tags:
 author: walterbolitto
 
 ---
-Anos atrás, com os bons resultados nas Copas do Mundo, o Brasil era conhecido como a terra do futebol, mas nem sempre foi assim, o jogo que sempre foi símbolo da Inglaterra, veio pro Brasil para ser praticado pelos filhos dos ricos, e aos poucos foi popularizado nas ruas, quintais e quadras de todos os países pelos filhos da classe trabalhadora, transformando a percepção sobre o esporte e possibilitando essa paixão nacional. As polêmicas relacionadas à CBF, os empresários lutando contra direitos sociais usando o uniforme da seleção e o terrível desempenho recente da seleção diminuiu o brilho no olhar do torcedor brasileiro, mas o esperto ainda é fundamental no nosso contexto.  
-   
- Independente disso, o futebol continua a habitar o imaginário da população brasileira, passeando a deriva pela cidade, podemos ver bolas e traves improvisadas nos centros urbanos, parte disso decorre do amor pelo esporte mas também é responsabilidade dos poucos espaços culturais disponíveis para os filhos da classe trabalhadora, especialmente nas periferias.
+Anos atrás, com os bons resultados nas Copas do Mundo, o Brasil era conhecido como a terra do futebol, mas nem sempre foi assim, o jogo que sempre foi símbolo da Inglaterra, veio pro Brasil para ser praticado pelos filhos dos ricos, e aos poucos foi popularizado nas ruas, quintais e quadras de todos os países pelos filhos da classe trabalhadora, transformando a percepção sobre o esporte e possibilitando essa paixão nacional. As polêmicas relacionadas à CBF, os empresários lutando contra direitos sociais usando o uniforme da seleção e o desempenho recente da seleção diminuiu o brilho no olhar do torcedor brasileiro.
 
-Na cidade de Guarulhos, vemos um governo que comemora a vitória de atletas em grandes eventos, ao mesmo tempo que atua como uma âncora para o esporte, já que pouco investe na inserção de jovens periféricos em espaços culturais, dessa forma, iniciativas desenvolvidas pela militância da cidade busca ocupar esse vácuo planejado por determinadas sobrenomes que se perpetuam na cidade. Marcel Agea, professor da rede de ensino municipal e estadual de São Paulo, colabora com a transformação da realidade da juventude de Guarulhos através da educação e do esporte, sendo fundador do Cursinho pré-vestibular Dona Fernanda e fundador do Havana Futebol Clube. Entrevistamos Marcel para falar um pouco sobre esse projeto tão importante na cidade.
+Independente disso, o futebol continua a habitar o imaginário da população, e passeando à deriva pela cidade, podemos ver bolas e traves improvisadas nos centros urbanos e nas periferias, parte disso decorre do amor pelo esporte mas também é de responsabilidade pública manter esses ainda poucos espaços culturais disponíveis para que ocupem também os filhos e as filhas da classe trabalhadora.
 
-  
- ![](https://i.imgur.com/dJR4FkJ.png)
+Na cidade de Guarulhos, notamos um governo que comemora a vitória de atletas em grandes eventos, ao mesmo tempo que na prática não dispõe atenção nos espaços esportivos e públicos, já que pouco investe nos espaços culturais e lazer, principalmente nas periferias, e dessa forma, iniciativas desenvolvidas pela militância da cidade buscam ocupar esse vácuo de planejamento e desenvolvimento na área do esporte. 
+
+Marcel Agea, professor da rede de ensino municipal e estadual de São Paulo, colabora com a transformação da realidade da juventude de Guarulhos através da educação e do esporte, sendo fundador do Cursinho pré-vestibular Dona Fernanda e fundador do Havana Futebol Clube. Entrevistamos Marcel para falar um pouco sobre esse projeto tão importante na cidade.
+
+![](https://i.imgur.com/dJR4FkJ.png)
 
 **Para você, qual a relação entre o futebol e política? Como isso impacta a sociedade e a classe trabalhadora?**
 
@@ -65,7 +66,7 @@ Levamos nossa proposta para ambas as entidades (E.E Cantidio Sampaio e CEU Bonsu
 
 Minha expectativa é que haja mudança nas três instâncias (Federal, Estadual e Municipal), de preferência com partidos de Esquerda.
 
-Do futebol brasileiro não tenho muita esperança nesse momento que possa influenciar de forma racional para uma alternância de poder, ao menos que Sócrates e João Saldanha ressuscite... kkk
+Do futebol brasileiro não tenho muita esperança nesse momento que possa influenciar de forma racional para uma alternância de poder, ao menos que Sócrates e João Saldanha ressuscite... (risos).
 
 A classe trabalhadora sim deve ter protagonismo nessa mudança, haja visto a quantidade de direitos que foram retirados do trabalhador nesses últimos 5 anos, principalmente desde a saída (UM GOLPE) de Dilma Rousselff. Aqui em Guarulhos temos um exemplo do papel e da força do trabalhador através da Proguaru, onde a organização e atuação dos funcionários através das mobilizações e manifestações fizeram essa luta ser ecoada aos 4 cantos do Brasil, se tornando hoje um movimento maior que a própria história de cada trabalhador desta empresa, mas um movimento de todo trabalhador brasileiro.
 
