@@ -13,7 +13,7 @@ tags:
 author: walterbolitto
 
 ---
-Foto: Renato Queiroz (via página oficial do Havana no instagram).
+Foto: Renato Queiroz (via página oficial do Havana FC no instagram).
 
 Anos atrás, com os bons resultados nas Copas do Mundo, o Brasil era conhecido como a terra do futebol, mas nem sempre foi assim, o jogo que foi símbolo da Inglaterra, veio pro Brasil para ser praticado pelos filhos dos ricos, e aos poucos foi popularizado nas ruas, quintais e quadras de todos os países pelos filhos da classe trabalhadora, transformando a percepção sobre o esporte e possibilitando essa paixão nacional.
 
