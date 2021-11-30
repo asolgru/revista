@@ -13,9 +13,11 @@ tags:
 author: walterbolitto
 
 ---
+Foto: Renato Queiroz (via página oficial do Havana no instagram).
+
 Anos atrás, com os bons resultados nas Copas do Mundo, o Brasil era conhecido como a terra do futebol, mas nem sempre foi assim, o jogo que foi símbolo da Inglaterra, veio pro Brasil para ser praticado pelos filhos dos ricos, e aos poucos foi popularizado nas ruas, quintais e quadras de todos os países pelos filhos da classe trabalhadora, transformando a percepção sobre o esporte e possibilitando essa paixão nacional.
 
- As polêmicas relacionadas à CBF, os empresários lutando contra direitos sociais usando o uniforme da seleção e o desempenho recente do governo brasileiro na política em relação a desmontes de setores de esporte, lazer e cultura, diminuiu o brilho no olhar do torcedor brasileiro.
+As polêmicas relacionadas à CBF, os empresários lutando contra direitos sociais usando o uniforme da seleção e o desempenho recente do governo brasileiro na política em relação a desmontes de setores de esporte, lazer e cultura, diminuiu o brilho no olhar do torcedor brasileiro.
 
 Independente disso, o futebol continua a habitar o imaginário da população, e passeando à deriva pela cidade, podemos ver bolas e traves improvisadas nos centros urbanos e nas periferias, parte disso decorre do amor pelo esporte mas também é de responsabilidade pública manter esses ainda poucos espaços culturais disponíveis para que ocupem também os filhos e as filhas da classe trabalhadora.
 
