@@ -1,5 +1,5 @@
 ---
-date: 2021-09-02 02:22:40 +0000
+date: 2021-11-17T22:26:32.000+00:00
 layout: post
 title: 'Revista A-Sol: Setembro 2021'
 subtitle: ''
